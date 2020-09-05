@@ -1,0 +1,4 @@
+<map id="UILoopMQ" name="UILoopMQ">
+<area shape="rect" id="node2" href="$classMessageQueue.html" title="{MessageQueue\&lt; VariantType\l\&lt; UIEvents \&gt; \&gt;\n|&#45; m_OnEvent\l&#45; m_Semaphore\l&#45; m_Queue\l|+ push()\l+ peek()\l+ getEnumerable()\l+ MessageQueue()\l+ MessageQueue()\l+ MessageQueue()\l+ operator=()\l+ operator=()\l&#45; wakeCondition()\l}" alt="" coords="5,292,217,531"/>
+<area shape="rect" id="node3" href="$classMessageQueue.html" title="{MessageQueue\&lt; Event \&gt;\n|&#45; m_OnEvent\l&#45; m_Semaphore\l&#45; m_Queue\l|+ push()\l+ peek()\l+ getEnumerable()\l+ MessageQueue()\l+ operator=()\l+ MessageQueue()\l+ MessageQueue()\l+ operator=()\l&#45; wakeCondition()\l}" alt="" coords="17,5,205,229"/>
+</map>

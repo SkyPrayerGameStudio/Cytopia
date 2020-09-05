@@ -1,0 +1,10 @@
+<map id="UIElement::setVisibility" name="UIElement::setVisibility">
+<area shape="rect" id="node2" href="$classTooltip.html#a46a4bafd52456186b1fc7f48a554f8ef" title="Tooltip::Tooltip" alt="" coords="489,33,605,60"/>
+<area shape="rect" id="node3" href="$classTooltip.html#ac48e36748acaf4cdd9838288f7732cc2" title="starts the countdown to when the Tooltip appears starts the timer for the countdown to when the Toolt..." alt="" coords="262,33,403,60"/>
+<area shape="rect" id="node4" href="$classTooltip.html#ab7c16dc309b2b97523e842c57b0534eb" title="makes the Tooltip visible makes the Tooltip visible " alt="" coords="257,84,408,111"/>
+<area shape="rect" id="node5" href="$classTooltip.html#ad451a89f3aaaa61d6cef9ea4ba590c68" title="resets the Tooltip Hides and deactivates the Tooltip and stops the timer " alt="" coords="279,135,386,161"/>
+<area shape="rect" id="node6" href="$classUIManager.html#aae7a89e9d50bb6192e4140e07bd5f94b" title="UIManager::createBuildMenu" alt="" coords="228,185,437,212"/>
+<area shape="rect" id="node7" href="$classGame.html#a560299f0291c281f7b44e7ef0dd7b264" title="initializes and displays the main menu initializes and displays the main menu " alt="" coords="264,236,401,263"/>
+<area shape="rect" id="node8" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="485,236,609,263"/>
+<area shape="rect" id="node9" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="657,236,712,263"/>
+</map>

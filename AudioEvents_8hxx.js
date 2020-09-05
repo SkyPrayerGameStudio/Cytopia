@@ -1,0 +1,25 @@
+var AudioEvents_8hxx =
+[
+    [ "Coordinate3D", "structCoordinate3D.html", "structCoordinate3D" ],
+    [ "StandardReverbProperties", "structStandardReverbProperties.html", "structStandardReverbProperties" ],
+    [ "EchoProperties", "structEchoProperties.html", "structEchoProperties" ],
+    [ "AudioTriggerEvent", "structAudioTriggerEvent.html", "structAudioTriggerEvent" ],
+    [ "AudioPlayEvent", "structAudioPlayEvent.html", "structAudioPlayEvent" ],
+    [ "AudioTrigger3DEvent", "structAudioTrigger3DEvent.html", "structAudioTrigger3DEvent" ],
+    [ "AudioPlay3DEvent", "structAudioPlay3DEvent.html", "structAudioPlay3DEvent" ],
+    [ "AudioPlayReverbEvent", "structAudioPlayReverbEvent.html", "structAudioPlayReverbEvent" ],
+    [ "AudioPlayEchoEvent", "structAudioPlayEchoEvent.html", "structAudioPlayEchoEvent" ],
+    [ "AudioTriggerReverbEvent", "structAudioTriggerReverbEvent.html", "structAudioTriggerReverbEvent" ],
+    [ "AudioTriggerEchoEvent", "structAudioTriggerEchoEvent.html", "structAudioTriggerEchoEvent" ],
+    [ "AudioPlayReverb3DEvent", "structAudioPlayReverb3DEvent.html", "structAudioPlayReverb3DEvent" ],
+    [ "AudioPlayEcho3DEvent", "structAudioPlayEcho3DEvent.html", "structAudioPlayEcho3DEvent" ],
+    [ "AudioTriggerReverb3DEvent", "structAudioTriggerReverb3DEvent.html", "structAudioTriggerReverb3DEvent" ],
+    [ "AudioTriggerEcho3DEvent", "structAudioTriggerEcho3DEvent.html", "structAudioTriggerEcho3DEvent" ],
+    [ "AudioMusicVolumeChangeEvent", "structAudioMusicVolumeChangeEvent.html", "structAudioMusicVolumeChangeEvent" ],
+    [ "AudioSoundVolumeChangeEvent", "structAudioSoundVolumeChangeEvent.html", "structAudioSoundVolumeChangeEvent" ],
+    [ "AudioSetMutedEvent", "structAudioSetMutedEvent.html", "structAudioSetMutedEvent" ],
+    [ "AudioStopEvent", "structAudioStopEvent.html", null ],
+    [ "AudioPruneEvent", "structAudioPruneEvent.html", null ],
+    [ "AudioEvents", "AudioEvents_8hxx.html#ac5bf60e3d845069db948f96ee3103e23", null ],
+    [ "VolumeLevel", "AudioEvents_8hxx.html#a48cc1f4d767ea2f6992148029c0c0a92", null ]
+];

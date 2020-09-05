@@ -1,0 +1,7 @@
+<map id="ResourcesManager::loadTexture" name="ResourcesManager::loadTexture">
+<area shape="rect" id="node2" href="$classResourcesManager.html#a54721d26f52c4887b735d2cdaf60b078" title="ResourcesManager::create\lSurfaceFromFile" alt="" coords="281,45,475,86"/>
+<area shape="rect" id="node5" href="$classResourcesManager.html#ad7712ca96233a151d8bc22cd2ba17d01" title="ResourcesManager::create\lTextureFromSurface" alt="" coords="281,110,475,151"/>
+<area shape="rect" id="node3" href="$namespacefs.html#a28e4c1324680c188092ecfe5fd8a91a3" title="fs::getBasePath" alt="" coords="565,5,687,32"/>
+<area shape="rect" id="node4" href="$namespacefs.html#a000d1f9ae14d782b6193298e6d27023f" title="fs::fileExists" alt="" coords="575,56,677,83"/>
+<area shape="rect" id="node6" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="523,110,729,151"/>
+</map>

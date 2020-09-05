@@ -1,0 +1,31 @@
+<map id="UIManager::initializeDollarVariables" name="UIManager::initializeDollarVariables">
+<area shape="rect" id="node2" href="$classUIManager.html#a1f663947ee80bfcb9567f82aa5d05607" title="Get all Ui Element objects Returns a container that holds ALL UiElements, even those in buttongroups..." alt="" coords="265,253,479,279"/>
+<area shape="rect" id="node3" href="$namespaceutils_1_1strings.html#afa781708d9b82cab99d894cf7728ddf1" title="checks if a string starts with a certain substring " alt="" coords="283,303,461,330"/>
+<area shape="rect" id="node4" href="$classComboBox.html#a5cf164ba9b28158f7d3f326200b22b9b" title="Clears the element&#39;s text field clears the text field of the comboBox. " alt="" coords="305,354,439,381"/>
+<area shape="rect" id="node5" href="$classComboBox.html#a0c422945ffd5c8d65bc4d61bd092bece" title="ComboBox::addElement" alt="" coords="283,405,461,431"/>
+<area shape="rect" id="node7" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="1169,420,1320,461"/>
+<area shape="rect" id="node8" href="$classComboBox.html#ad0dba514b01ed2bb3c41c738c80a7d6a" title="Set ID of selected element sets the ID of the selected element in the comboBox. " alt="" coords="865,557,1041,583"/>
+<area shape="rect" id="node9" href="$classComboBox.html#a6c15ed04bb4eee2130939e9e2045a5eb" title="ComboBox::count" alt="" coords="303,783,441,810"/>
+<area shape="rect" id="node10" href="$classComboBox.html#abcaec38988ca3a571907d33ddb84c5a6" title="ComboBox::registerCallback\lFunction" alt="" coords="557,859,763,900"/>
+<area shape="rect" id="node11" href="$namespaceSignal.html#a6e0df6c5db8c544e147a57b4d89171ca" title="This function creates a std::function by binding object to the member function pointer method..." alt="" coords="325,834,419,861"/>
+<area shape="rect" id="node12" href="$classUIManager.html#a3ccb2fc669262f18ebdcdf3d5c43a3e8" title="CallbackFunction that sets the Build Menu Position Used as callback function for the ComboBox that ho..." alt="" coords="252,455,492,482"/>
+<area shape="rect" id="node26" href="$classUIManager.html#ac927e1cd3dea979202ea9dbf1195b583" title="UIManager::changeResolution" alt="" coords="265,506,479,533"/>
+<area shape="rect" id="node29" href="$classUIManager.html#af2ffb4ee45e57152164643ef6cddda37" title="UIManager::changeFullScreenMode" alt="" coords="248,682,496,709"/>
+<area shape="rect" id="node6" href="$classComboBox.html#aa344838cace46be94ba0cad37700b9ec" title="ComboBox::centerTextLabel" alt="" coords="558,46,762,73"/>
+<area shape="rect" id="node13" href="$classComboBox.html#afddbdfd25efa15206eb724b641665cfc" title="Get ID of selected element returns the ID of the selected element in the comboBox. " alt="" coords="571,506,749,533"/>
+<area shape="rect" id="node14" href="$classUIManager.html#af885d42286536573cd418ed008abfc07" title="UIManager::setBuildMenuLayout" alt="" coords="544,97,776,123"/>
+<area shape="rect" id="node17" href="$classLayout.html#afa734c5af10f59f3dadb066054fe81ab" title="Arrange the layout elements. " alt="" coords="567,307,753,334"/>
+<area shape="rect" id="node15" href="$namespaceutils_1_1strings.html#a1460a4e19b93604e32bb76f8407c4221" title="checks if a string ends with a certain substring " alt="" coords="868,71,1039,98"/>
+<area shape="rect" id="node16" href="$namespaceutils_1_1strings.html#ab8a6e07e519cb0ee76d762fe635901c1" title="Erase First Occurrence of given substring from main string. " alt="" coords="861,5,1045,47"/>
+<area shape="rect" id="node18" href="$classLayout.html#a79480df6d9dd2d32b23468c05c6ac944" title="Calculates height and width of layout groups. " alt="" coords="845,349,1061,391"/>
+<area shape="rect" id="node19" href="$classUIManager.html#a0d32c5b63c4110ff8e43ab06c1c7d761" title="Get the Layoutgroup container Returns the container, that holds LayoutGroups. " alt="" coords="1131,223,1359,250"/>
+<area shape="rect" id="node20" href="$classLayout.html#a99004e4afcea6a945e3890b19cce6236" title="Arrange Elements that are aligned to a parent This is a seperate function, so it can recurse if a par..." alt="" coords="844,122,1063,149"/>
+<area shape="rect" id="node21" href="$classUIManager.html#aa5b6dbe1a9d5c50b588c55e9c9673f58" title="Get the Ui Element By ID Finds and returns an UiElement by its elementID parameter. " alt="" coords="1135,173,1355,199"/>
+<area shape="rect" id="node22" href="$classUIElement.html#a6451228b4c9bc058d69e4d4f2b03c719" title="UIElement::getUiElementData" alt="" coords="1135,71,1354,98"/>
+<area shape="rect" id="node23" href="$classUIElement.html#ad1c0d7431b71bdd9a3704a6d5c8a4643" title="Get the position and the size of this ui element Gets the position and the size of this ui element..." alt="" coords="1137,122,1352,149"/>
+<area shape="rect" id="node24" href="$classUIElement.html#aa7f624963eaeb31043d74219ee24386c" title="Checks if the mouse cursor is over the current UI Element Check if the coordinates match the ones sto..." alt="" coords="1455,97,1637,123"/>
+<area shape="rect" id="node25" href="$classUIElement.html#a570841bf8b7970ca935b1a00e571036a" title="Handling for the hovering event Check, if the mouse cursor is hovering over the element. virtual function to provide custom handling if necessary (e.g. Combobox) Per default, it&#39;s the same implementation as isMouseOver. " alt="" coords="1407,147,1685,174"/>
+<area shape="rect" id="node27" href="$classWindowManager.html#a02ff8708c66cbb980399eb967a37a937" title="WindowManager::setScreen\lResolution" alt="" coords="852,491,1055,532"/>
+<area shape="rect" id="node28" href="$classMap.html#ab69938ac0e56eb0da1d1701221f3d185" title="Refresh all the map tile textures. " alt="" coords="609,682,711,709"/>
+<area shape="rect" id="node30" href="$classWindowManager.html#a92e1efc564e88b5d92ef674c2577997f" title="sets the game&#39;s window mode Changes the game&#39;s window mode to fullscreen, borderless, or windowed " alt="" coords="824,707,1083,734"/>
+</map>

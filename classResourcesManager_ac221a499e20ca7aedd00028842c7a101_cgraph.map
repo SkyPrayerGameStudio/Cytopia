@@ -1,0 +1,9 @@
+<map id="ResourcesManager::loadUITexture" name="ResourcesManager::loadUITexture">
+<area shape="rect" id="node2" href="$namespacefs.html#ac2d9a48234828392a1f6a6dfce785830" title="Read contents from a file as string. " alt="" coords="319,5,466,32"/>
+<area shape="rect" id="node3" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="537,93,688,134"/>
+<area shape="rect" id="node4" href="$structStrongType.html#acc66e6d6b9c95193a97a839560499933" title="StrongType::get" alt="" coords="331,107,454,133"/>
+<area shape="rect" id="node5" href="$classResourcesManager.html#ad7712ca96233a151d8bc22cd2ba17d01" title="ResourcesManager::create\lTextureFromSurface" alt="" coords="296,158,489,199"/>
+<area shape="rect" id="node6" href="$classResourcesManager.html#a54721d26f52c4887b735d2cdaf60b078" title="ResourcesManager::create\lSurfaceFromFile" alt="" coords="296,223,489,265"/>
+<area shape="rect" id="node7" href="$namespacefs.html#a28e4c1324680c188092ecfe5fd8a91a3" title="fs::getBasePath" alt="" coords="551,201,674,228"/>
+<area shape="rect" id="node8" href="$namespacefs.html#a000d1f9ae14d782b6193298e6d27023f" title="fs::fileExists" alt="" coords="562,252,663,279"/>
+</map>

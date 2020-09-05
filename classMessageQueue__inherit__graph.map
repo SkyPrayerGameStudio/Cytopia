@@ -1,0 +1,6 @@
+<map id="MessageQueue&lt; Event &gt;" name="MessageQueue&lt; Event &gt;">
+<area shape="rect" id="node2" href="$classMessageQueue.html" title="{MessageQueue\&lt; VariantType\l\&lt; GameEvents \&gt; \&gt;\n|&#45; m_OnEvent\l&#45; m_Semaphore\l&#45; m_Queue\l|+ push()\l+ peek()\l+ getEnumerable()\l+ MessageQueue()\l+ MessageQueue()\l+ MessageQueue()\l+ operator=()\l+ operator=()\l&#45; wakeCondition()\l}" alt="" coords="5,292,217,531"/>
+<area shape="rect" id="node4" href="$classMessageQueue.html" title="{MessageQueue\&lt; VariantType\l\&lt; UIEvents \&gt; \&gt;\n|&#45; m_OnEvent\l&#45; m_Semaphore\l&#45; m_Queue\l|+ push()\l+ peek()\l+ getEnumerable()\l+ MessageQueue()\l+ MessageQueue()\l+ MessageQueue()\l+ operator=()\l+ operator=()\l&#45; wakeCondition()\l}" alt="" coords="260,292,472,531"/>
+<area shape="rect" id="node3" href="$classGameLoopMQ.html" title="Game loop Actor&#39;s message queue. " alt="" coords="55,580,168,657"/>
+<area shape="rect" id="node5" href="$classUILoopMQ.html" title="UI Actor&#39;s message queue. " alt="" coords="322,580,410,657"/>
+</map>

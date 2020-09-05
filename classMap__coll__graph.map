@@ -1,0 +1,7 @@
+<map id="Map" name="Map">
+<area shape="rect" id="node2" href="$classSprite.html" title="{Sprite\n|+ spriteCount\l+ highlightSprite\l&#45; m_screenCoordinates\l&#45; m_needsRefresh\l&#45; m_currentZoomLevel\l&#45; m_SpriteData\l|+ Sprite()\l+ ~Sprite()\l+ render()\l+ refresh()\l+ setTexture()\l+ setClipRect()\l+ setDestRect()\l+ clearSprite()\l+ getDestRect()\l+ getClipRect()\l+ getActiveClipRect()\l+ getActiveDestRect()\l+ setSpriteTranparencyFactor()\l+ isLayerUsed()\l}" alt="" coords="67,403,289,744"/>
+<area shape="rect" id="node3" href="$classPoint.html" title="{Point\n|+ x\l+ y\l+ z\l+ height\l|+ operator==()\l+ operator!=()\l}" alt="" coords="5,182,129,318"/>
+<area shape="rect" id="node4" href="$structSpriteRGBColor.html" title="{SpriteRGBColor\n|+ r\l+ g\l+ b\l|}" alt="" coords="154,197,277,303"/>
+<area shape="rect" id="node5" href="$classTerrainGenerator.html" title="{TerrainGenerator\n|&#45; m_biomeInformation\l|+ TerrainGenerator()\l+ ~TerrainGenerator()\l+ generateTerrain()\l+ loadTerrainDataFromJSON()\l}" alt="" coords="313,513,528,634"/>
+<area shape="rect" id="node6" href="$structTerrainSettings.html" title="{TerrainSettings\n|+ mapSize\l+ seed\l+ seaLevel\l+ treeDensity\l+ mountainAmplitude\l+ waterAmount\l+ coasts\l+ rivers\l|}" alt="" coords="337,160,504,340"/>
+</map>

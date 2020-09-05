@@ -1,0 +1,8 @@
+<map id="MapNode::updateTexture" name="MapNode::updateTexture">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="251,5,429,47"/>
+<area shape="rect" id="node3" href="$classTileManager.html#a519b2d5c91877025a2faa0dff3ba099c" title="TileManager::calculateSlope\lOrientation" alt="" coords="237,71,443,112"/>
+<area shape="rect" id="node4" href="$classTileManager.html#a05d41a7f0858cff242f027a08e06ea43" title="TileManager::calculateTile\lOrientation" alt="" coords="243,136,437,177"/>
+<area shape="rect" id="node5" href="$classMapNode.html#afb1cbc0f9e987b7befced46220dd9277" title="check if specific layer can be autotiled. " alt="" coords="244,202,436,229"/>
+<area shape="rect" id="node7" href="$classMapNode.html#ab34930f43b60310cd475f514e969a401" title="get TileID of specific layer inside NodeData. " alt="" coords="265,253,415,279"/>
+<area shape="rect" id="node6" href="$classMapNode.html#a64cb9a4523c9e78f256fde42f1dee43d" title="check if specific Tile Data is autotile category. " alt="" coords="491,202,677,229"/>
+</map>

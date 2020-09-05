@@ -1,0 +1,4 @@
+<map id="Rectangle::x1" name="Rectangle::x1">
+<area shape="rect" id="node2" href="$classPixelBuffer.html#a5402df89a5dc5b23594a697285f21e34" title="Scale the pixel buffer using nearest&#45;neighbor in both dimensions. " alt="" coords="164,5,299,32"/>
+<area shape="rect" id="node3" href="$classPixelBuffer.html#abbad3bec56ca536a543c42024045c99d" title="Crop the pixel buffer around a region. " alt="" coords="167,56,296,83"/>
+</map>

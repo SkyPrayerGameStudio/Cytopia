@@ -1,0 +1,8 @@
+<map id="MapLayers::isLayerActive" name="MapLayers::isLayerActive">
+<area shape="rect" id="node2" href="$classMapLayers.html#ab663dfc9e4c144f904ad85543b66ac8f" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="241,42,457,69"/>
+<area shape="rect" id="node6" href="$classMapLayers.html#a53d7fcd90e70eaf36239d7a75c0c5dda" title="MapLayers::MapLayers" alt="" coords="264,93,435,119"/>
+<area shape="rect" id="node7" href="$classMapLayers.html#aa7fa21110e27ec69f131692b0a510d66" title="MapLayers::~MapLayers" alt="" coords="259,143,440,170"/>
+<area shape="rect" id="node3" href="$classMapLayers.html#a0a64d01a42e8864b78e1bc54007cb7d9" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="505,5,692,47"/>
+<area shape="rect" id="node5" href="$classMapLayers.html#a5db6ba7e194ada6a4d0334d0428ff89b" title="Enable drawing layers. " alt="" coords="505,71,692,98"/>
+<area shape="rect" id="node4" href="$classMapLayers.html#a3b1b1f10dd431fa83e098a20e4c836b9" title="Disable Drawing Layer Disable Drawing Layer ( Turned off by using bitwise AND with inversed pattern) ..." alt="" coords="740,13,923,39"/>
+</map>

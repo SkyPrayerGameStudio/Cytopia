@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classiModel.html" title="iModel" alt="" coords="360,85,425,112"/>
+<area shape="rect" id="node2" href="$structDataModel.html" title="DataModel\&lt; DataList \&gt;" alt="" coords="597,55,773,81"/>
+<area shape="rect" id="node3" href="$structDataModel.html" title="DataModel\&lt; ButtonNotifications \&gt;" alt="" coords="561,116,808,143"/>
+<area shape="rect" id="node4" href="$classButtonState.html" title="ButtonState" alt="" coords="856,116,955,143"/>
+<area shape="rect" id="node5" href="$structUIMQDispatcher.html" title="UIMQDispatcher\&lt; VariantType\l\&lt; ButtonNotifications \&gt; \&gt;" alt="" coords="5,151,224,193"/>
+<area shape="rect" id="node6" href="$classSubject.html" title="Subject\&lt; VariantType\l\&lt; ButtonNotifications\l \&gt;, UIMQDispatcher\&lt; VariantType\l\&lt; ButtonNotifications \&gt; \&gt; \&gt;" alt="" coords="272,137,513,207"/>
+<area shape="rect" id="node7" href="$structUIMQDispatcher.html" title="UIMQDispatcher\&lt; VariantType\l\&lt; DataList \&gt; \&gt;" alt="" coords="5,13,224,54"/>
+<area shape="rect" id="node8" href="$classSubject.html" title="Subject\&lt; VariantType\l\&lt; DataList \&gt;, UIMQDispatcher\l\&lt; VariantType\&lt; DataList \&gt; \&gt; \&gt;" alt="" coords="279,5,506,61"/>
+</map>

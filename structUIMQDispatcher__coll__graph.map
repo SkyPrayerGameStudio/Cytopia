@@ -1,0 +1,5 @@
+<map id="UIMQDispatcher&lt; DataArgs &gt;" name="UIMQDispatcher&lt; DataArgs &gt;">
+<area shape="rect" id="node2" href="$classUILoopMQ.html" title="UI Actor&#39;s message queue. " alt="" coords="70,580,158,657"/>
+<area shape="rect" id="node3" href="$classMessageQueue.html" title="{MessageQueue\&lt; VariantType\l\&lt; UIEvents \&gt; \&gt;\n|&#45; m_OnEvent\l&#45; m_Semaphore\l&#45; m_Queue\l|+ push()\l+ peek()\l+ getEnumerable()\l+ MessageQueue()\l+ MessageQueue()\l+ MessageQueue()\l+ operator=()\l+ operator=()\l&#45; wakeCondition()\l}" alt="" coords="8,292,220,531"/>
+<area shape="rect" id="node4" href="$classMessageQueue.html" title="{MessageQueue\&lt; Event \&gt;\n|&#45; m_OnEvent\l&#45; m_Semaphore\l&#45; m_Queue\l|+ push()\l+ peek()\l+ getEnumerable()\l+ MessageQueue()\l+ operator=()\l+ MessageQueue()\l+ MessageQueue()\l+ operator=()\l&#45; wakeCondition()\l}" alt="" coords="20,5,208,229"/>
+</map>

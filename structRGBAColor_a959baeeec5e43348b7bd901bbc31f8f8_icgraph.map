@@ -1,0 +1,9 @@
+<map id="RGBAColor::blue" name="RGBAColor::blue">
+<area shape="rect" id="node2" href="$structRGBAColor.html#ab27257376e621ff4a8862a90ddd1ffab" title="RGBAColor::hue" alt="" coords="203,32,329,58"/>
+<area shape="rect" id="node3" href="$structRGBAColor.html#a755420286bdcbf77dcd7511e9a28f806" title="RGBAColor::RGBAColor" alt="" coords="417,32,589,58"/>
+<area shape="rect" id="node5" href="$structRGBAColor.html#ab835dd9b5967615be31d7087a0499607" title="RGBAColor::lightness" alt="" coords="186,82,346,109"/>
+<area shape="rect" id="node6" href="$structRGBAColor.html#a8de2a717601cc3fba0e65c6e4e7e1524" title="RGBAColor::saturation" alt="" coords="183,133,349,160"/>
+<area shape="rect" id="node7" href="$Color_8hxx.html#a66462eba8baae6dccf946e527f5b6a3a" title="operator\&lt;\&lt;" alt="" coords="217,184,315,210"/>
+<area shape="rect" id="node4" href="$classPixelBuffer.html#a4967e7c476e99c2a5efb234c033657be" title="Recolors magic pixels. " alt="" coords="397,82,608,109"/>
+<area shape="rect" id="node8" href="$Color_8hxx.html#a20ab73b1995e8eb26e6e263687a467f8" title="operator&quot;&quot;_rgba" alt="" coords="440,184,565,210"/>
+</map>

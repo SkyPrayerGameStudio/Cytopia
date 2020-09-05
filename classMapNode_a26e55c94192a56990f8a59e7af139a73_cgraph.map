@@ -1,0 +1,15 @@
+<map id="MapNode::setTileID" name="MapNode::setTileID">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="495,5,673,47"/>
+<area shape="rect" id="node3" href="$classTileManager.html#a8ee071ff8b24926288437d310f9bc714" title="TileManager::getTileData" alt="" coords="491,71,677,98"/>
+<area shape="rect" id="node4" href="$classTileManager.html#a105151a0c336807e918aff002ffd6101" title="TileManager::getTileLayer" alt="" coords="223,74,413,101"/>
+<area shape="rect" id="node5" href="$classMapNode.html#abda77a5705086a50cbc5755d10883e8a" title="Sets a node to be Transparent This sets a node to be Transparent. &#160;transparencyFactor (0&#45;1..." alt="" coords="203,226,433,253"/>
+<area shape="rect" id="node6" href="$classMapNode.html#a06be1917d4b251010ae78d8a2b7bc88a" title="demolish specific layer of a Node. " alt="" coords="225,277,411,303"/>
+<area shape="rect" id="node8" href="$classMapNode.html#ae38d4ab8e73fc9c44e404f3c9a196953" title="MapNode::isLayerOccupied" alt="" coords="219,327,417,354"/>
+<area shape="rect" id="node9" href="$classMapNode.html#aabbb10c19ddd79e9c519eb4af5e995e0" title="Update texture. " alt="" coords="226,175,410,202"/>
+<area shape="rect" id="node7" href="$classMapNode.html#a67296a58e167356efbabeaac3226b5d3" title="get iso coordinates of this node gets the iso coordinates of this node " alt="" coords="489,355,679,382"/>
+<area shape="rect" id="node10" href="$classTileManager.html#a519b2d5c91877025a2faa0dff3ba099c" title="TileManager::calculateSlope\lOrientation" alt="" coords="481,173,687,215"/>
+<area shape="rect" id="node11" href="$classTileManager.html#a05d41a7f0858cff242f027a08e06ea43" title="TileManager::calculateTile\lOrientation" alt="" coords="487,239,681,280"/>
+<area shape="rect" id="node12" href="$classMapNode.html#afb1cbc0f9e987b7befced46220dd9277" title="check if specific layer can be autotiled. " alt="" coords="488,305,680,331"/>
+<area shape="rect" id="node14" href="$classMapNode.html#ab34930f43b60310cd475f514e969a401" title="get TileID of specific layer inside NodeData. " alt="" coords="509,122,659,149"/>
+<area shape="rect" id="node13" href="$classMapNode.html#a64cb9a4523c9e78f256fde42f1dee43d" title="check if specific Tile Data is autotile category. " alt="" coords="735,305,921,331"/>
+</map>

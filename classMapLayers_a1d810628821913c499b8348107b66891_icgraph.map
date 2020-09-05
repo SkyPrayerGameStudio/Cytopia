@@ -1,0 +1,12 @@
+<map id="MapLayers::isLayerActive" name="MapLayers::isLayerActive">
+<area shape="rect" id="node2" href="$classMapNode.html#ac307762dc7ad609974c6b13774c3c00d" title="return topmost active layer. check layers in order of significance for the topmost active layer that ..." alt="" coords="273,20,480,61"/>
+<area shape="rect" id="node5" href="$classMapNode.html#a002b868485074599fbf087fc4c96b2c9" title="Demolish a node Removes all tiles on a node. This effects all layers where something to demolish is p..." alt="" coords="284,86,469,113"/>
+<area shape="rect" id="node6" href="$classMap.html#a352929ea8cc2efc4f415c7ec795e1538" title="Map\&lt; ObserverSPtr\&lt;\l Notification \&gt;, Set\l\&lt; typename Notification\l::TransitionType \&gt; \&gt;::isClickWithinTile" alt="" coords="241,137,512,208"/>
+<area shape="rect" id="node7" href="$classSprite.html#abdf111e2030274680af0f00f296d8605" title="Sprite::render" alt="" coords="321,233,432,259"/>
+<area shape="rect" id="node9" href="$classSprite.html#a87428873289f8ec84f4b75d9162c9d7c" title="Sprite::getActiveClipRect" alt="" coords="285,283,468,310"/>
+<area shape="rect" id="node10" href="$classSprite.html#a7376c698bf914312fbcc7c2b8180cbed" title="Sprite::isLayerUsed" alt="" coords="303,334,451,361"/>
+<area shape="rect" id="node11" href="$classSprite.html#aedfac1c3b8a22c5ae4d97bd9586a6a26" title="Sprite::getActiveDestRect" alt="" coords="283,385,471,411"/>
+<area shape="rect" id="node3" href="$classMapNode.html#a0b089ef93b46bbfed8ccf71dc516c4ef" title="MapNode::getActiveMapNodeData" alt="" coords="560,27,805,54"/>
+<area shape="rect" id="node4" href="$classMap.html#a0241b997090783e5d13667114731a592" title="Debug MapNodeData to Console Used as Tile&#45;Inspector until we implement a GUI variant. " alt="" coords="853,5,1145,76"/>
+<area shape="rect" id="node8" href="$classMap.html#a8ffaf087a7bf669a890301a1efad6976" title="Map\&lt; ObserverSPtr\&lt;\l Notification \&gt;, Set\l\&lt; typename Notification\l::TransitionType \&gt; \&gt;::renderMap" alt="" coords="567,211,798,281"/>
+</map>

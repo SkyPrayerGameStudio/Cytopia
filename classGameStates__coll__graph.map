@@ -1,0 +1,5 @@
+<map id="GameStates" name="GameStates">
+<area shape="rect" id="node2" href="$structGameStatesData.html" title="{GameStatesData\n|+ drawUI\l+ rectangularRoads\l+ layerEditMode\l+ placementMode\l+ demolishMode\l|}" alt="" coords="5,175,156,311"/>
+<area shape="rect" id="node3" href="$classSingleton.html" title="{Singleton\&lt; GameStates \&gt;\n||+ instance()\l# Singleton()\l# ~Singleton()\l}" alt="" coords="180,189,373,296"/>
+<area shape="rect" id="node4" href="$classSingleton.html" title="Abstract Singleton implementation. " alt="" coords="216,5,337,112"/>
+</map>

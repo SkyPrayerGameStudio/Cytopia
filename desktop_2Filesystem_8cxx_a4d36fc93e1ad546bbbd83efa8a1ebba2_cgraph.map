@@ -1,0 +1,8 @@
+<map id="forEachFileType" name="forEachFileType">
+<area shape="rect" id="node2" href="$namespacefs.html#ac2d9a48234828392a1f6a6dfce785830" title="Read contents from a file as string. " alt="" coords="187,5,334,32"/>
+<area shape="rect" id="node3" href="$namespacefs.html#a000d1f9ae14d782b6193298e6d27023f" title="fs::fileExists" alt="" coords="210,56,311,83"/>
+<area shape="rect" id="node4" href="$namespacefs.html#a28e4c1324680c188092ecfe5fd8a91a3" title="fs::getBasePath" alt="" coords="199,107,322,133"/>
+<area shape="rect" id="node5" href="$namespacefs.html#a9ce6574c55b8154911dfa170003ef14e" title="fs::writeStringToFile" alt="" coords="186,157,335,184"/>
+<area shape="rect" id="node6" href="$namespacefs.html#ada3403a647fb74846ccea50eb0b1ae8e" title="fs::getDirectoryListing" alt="" coords="177,208,344,235"/>
+<area shape="rect" id="node7" href="$namespacefs.html#a31600bae2b05de002e596e74b39fb158" title="fs::getSaveGamePaths" alt="" coords="176,259,345,285"/>
+</map>

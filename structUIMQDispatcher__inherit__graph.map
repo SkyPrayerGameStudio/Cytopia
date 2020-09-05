@@ -1,0 +1,9 @@
+<map id="UIMQDispatcher&lt; DataArgs &gt;" name="UIMQDispatcher&lt; DataArgs &gt;">
+<area shape="rect" id="node2" href="$structUIMQDispatcher.html" title="{UIMQDispatcher\&lt; VariantType\l\&lt; DataList \&gt; \&gt;\n|+ loop\l|+ dispatch()\l}" alt="" coords="5,145,224,237"/>
+<area shape="rect" id="node7" href="$structUIMQDispatcher.html" title="{UIMQDispatcher\&lt; VariantType\l\&lt; ButtonNotifications \&gt; \&gt;\n|+ loop\l|+ dispatch()\l}" alt="" coords="228,261,447,353"/>
+<area shape="rect" id="node3" href="$classSubject.html" title="{Subject\&lt; VariantType\l\&lt; DataList \&gt;, UIMQDispatcher\l\&lt; VariantType\&lt; DataList \&gt; \&gt; \&gt;\n|&#45; m_Observers\l|+ addObserver()\l# Subject()\l# notifyObservers()\l# ~Subject()\l# mustNotify()\l}" alt="" coords="5,377,232,543"/>
+<area shape="rect" id="node4" href="$structDataModel.html" title="{DataModel\&lt; DataList \&gt;\n||+ DataModel()\l}" alt="" coords="47,771,223,848"/>
+<area shape="rect" id="node5" href="$structDataModel.html" title="{DataModel\&lt; ButtonNotifications \&gt;\n||+ DataModel()\l}" alt="" coords="123,911,370,988"/>
+<area shape="rect" id="node6" href="$classButtonState.html" title="{ButtonState\n|&#45; m_Status\l|+ setStatus()\l+ ~ButtonState()\l}" alt="" coords="179,1037,314,1129"/>
+<area shape="rect" id="node8" href="$classSubject.html" title="{Subject\&lt; VariantType\l\&lt; ButtonNotifications\l \&gt;, UIMQDispatcher\&lt; VariantType\l\&lt; ButtonNotifications \&gt; \&gt; \&gt;\n|&#45; m_Observers\l|+ addObserver()\l# Subject()\l# notifyObservers()\l# ~Subject()\l# mustNotify()\l}" alt="" coords="217,567,458,747"/>
+</map>

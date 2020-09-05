@@ -1,0 +1,4 @@
+<map id="PositionHint" name="PositionHint">
+<area shape="rect" id="node2" href="$classMarginConfiguration.html" title="Represents a PositionHint as margin around a Box. " alt="" coords="5,175,159,252"/>
+<area shape="rect" id="node3" href="$classPaddingConfiguration.html" title="Represents a PositionHint as padding within a Box. " alt="" coords="183,175,343,252"/>
+</map>

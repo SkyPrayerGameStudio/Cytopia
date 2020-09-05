@@ -1,0 +1,34 @@
+<map id="UIManager::setCallbackFunctions" name="UIManager::setCallbackFunctions">
+<area shape="rect" id="node2" href="$classUIElement.html#a6451228b4c9bc058d69e4d4f2b03c719" title="UIElement::getUiElementData" alt="" coords="1106,44,1325,70"/>
+<area shape="rect" id="node3" href="$classButton.html#a076af7f94be44c9b450911ae4664f23f" title="Button::checkState" alt="" coords="609,201,754,228"/>
+<area shape="rect" id="node4" href="$namespaceSignal.html#a6e0df6c5db8c544e147a57b4d89171ca" title="This function creates a std::function by binding object to the member function pointer method..." alt="" coords="362,753,457,780"/>
+<area shape="rect" id="node5" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="1137,392,1294,434"/>
+<area shape="rect" id="node6" href="$classEngine.html#a0ba57971ffb5173ecc425461f65a4cd8" title="Quits the game Sets m_running to false and quitting the game. " alt="" coords="340,804,479,830"/>
+<area shape="rect" id="node7" href="$classEngine.html#a83b7dbeee899b36a13d5b07c7ad87ebc" title="Loads a saved game Loads a saved Game. " alt="" coords="611,812,752,838"/>
+<area shape="rect" id="node9" href="$classMapLayers.html#ab663dfc9e4c144f904ad85543b66ac8f" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="301,905,517,932"/>
+<area shape="rect" id="node13" href="$classTileManager.html#a8ee071ff8b24926288437d310f9bc714" title="TileManager::getTileData" alt="" coords="316,956,503,982"/>
+<area shape="rect" id="node14" href="$classUIManager.html#a23bbbe53c18c31ff1c68c105dfa0dbd3" title="Callback function for toggling the visibility of an UiGroup Callback function for Ui Widgets with the..." alt="" coords="291,176,528,202"/>
+<area shape="rect" id="node16" href="$classEngine.html#a260d4834150eae6eec2bde34df6dc827" title="Creates a new game Creates a new game. " alt="" coords="611,652,751,678"/>
+<area shape="rect" id="node17" href="$classEngine.html#ab5a909990be40701ebb4b57c3e716ed4" title="Engine::saveGame" alt="" coords="337,702,481,729"/>
+<area shape="rect" id="node19" href="$classSettings.html#a53285dd5cbd5bfafe155187c74150dde" title="Save settings to file. " alt="" coords="340,1006,479,1033"/>
+<area shape="rect" id="node21" href="$classUIManager.html#ac927e1cd3dea979202ea9dbf1195b583" title="UIManager::changeResolution" alt="" coords="302,365,517,392"/>
+<area shape="rect" id="node8" href="$classMap.html#afefe996cc1f62b61ec60d0ae415953bf" title="Map::loadMapFromFile" alt="" coords="861,812,1027,838"/>
+<area shape="rect" id="node10" href="$classMapLayers.html#a0a64d01a42e8864b78e1bc54007cb7d9" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="588,880,775,922"/>
+<area shape="rect" id="node12" href="$classMapLayers.html#a5db6ba7e194ada6a4d0334d0428ff89b" title="Enable drawing layers. " alt="" coords="588,946,775,973"/>
+<area shape="rect" id="node11" href="$classMapLayers.html#a3b1b1f10dd431fa83e098a20e4c836b9" title="Disable Drawing Layer Disable Drawing Layer ( Turned off by using bitwise AND with inversed pattern) ..." alt="" coords="853,888,1035,914"/>
+<area shape="rect" id="node15" href="$classUIManager.html#acf39ddcfeee8509c4292b6263cd57ad2" title="Close all open menus but the build menu. " alt="" coords="576,150,787,177"/>
+<area shape="rect" id="node18" href="$classMap.html#ae48ef4fa6a6f73d886211bca59123151" title="Map::saveMapToFile" alt="" coords="606,702,757,729"/>
+<area shape="rect" id="node20" href="$namespacefs.html#a9ce6574c55b8154911dfa170003ef14e" title="fs::writeStringToFile" alt="" coords="607,1006,756,1033"/>
+<area shape="rect" id="node22" href="$classWindowManager.html#a02ff8708c66cbb980399eb967a37a937" title="WindowManager::setScreen\lResolution" alt="" coords="843,463,1045,504"/>
+<area shape="rect" id="node23" href="$classComboBox.html#afddbdfd25efa15206eb724b641665cfc" title="Get ID of selected element returns the ID of the selected element in the comboBox. " alt="" coords="593,252,770,278"/>
+<area shape="rect" id="node25" href="$classLayout.html#afa734c5af10f59f3dadb066054fe81ab" title="Arrange the layout elements. " alt="" coords="589,302,774,329"/>
+<area shape="rect" id="node33" href="$classMap.html#ab69938ac0e56eb0da1d1701221f3d185" title="Refresh all the map tile textures. " alt="" coords="630,428,733,454"/>
+<area shape="rect" id="node24" href="$classComboBox.html#ad0dba514b01ed2bb3c41c738c80a7d6a" title="Set ID of selected element sets the ID of the selected element in the comboBox. " alt="" coords="856,94,1032,121"/>
+<area shape="rect" id="node26" href="$classLayout.html#a79480df6d9dd2d32b23468c05c6ac944" title="Calculates height and width of layout groups. " alt="" coords="836,247,1052,288"/>
+<area shape="rect" id="node27" href="$classUIManager.html#a0d32c5b63c4110ff8e43ab06c1c7d761" title="Get the Layoutgroup container Returns the container, that holds LayoutGroups. " alt="" coords="1101,145,1329,172"/>
+<area shape="rect" id="node28" href="$classLayout.html#a99004e4afcea6a945e3890b19cce6236" title="Arrange Elements that are aligned to a parent This is a seperate function, so it can recurse if a par..." alt="" coords="835,196,1053,222"/>
+<area shape="rect" id="node29" href="$classUIManager.html#aa5b6dbe1a9d5c50b588c55e9c9673f58" title="Get the Ui Element By ID Finds and returns an UiElement by its elementID parameter. " alt="" coords="1105,246,1325,273"/>
+<area shape="rect" id="node30" href="$classUIElement.html#ad1c0d7431b71bdd9a3704a6d5c8a4643" title="Get the position and the size of this ui element Gets the position and the size of this ui element..." alt="" coords="1108,196,1323,222"/>
+<area shape="rect" id="node31" href="$classUIElement.html#aa7f624963eaeb31043d74219ee24386c" title="Checks if the mouse cursor is over the current UI Element Check if the coordinates match the ones sto..." alt="" coords="1425,170,1608,197"/>
+<area shape="rect" id="node32" href="$classUIElement.html#a570841bf8b7970ca935b1a00e571036a" title="Handling for the hovering event Check, if the mouse cursor is hovering over the element. virtual function to provide custom handling if necessary (e.g. Combobox) Per default, it&#39;s the same implementation as isMouseOver. " alt="" coords="1377,221,1656,248"/>
+</map>

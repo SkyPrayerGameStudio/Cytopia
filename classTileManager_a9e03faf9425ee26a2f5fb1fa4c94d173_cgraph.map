@@ -1,0 +1,8 @@
+<map id="TileManager::addJSONObjectToTileData" name="TileManager::addJSONObjectToTileData">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="779,5,999,47"/>
+<area shape="rect" id="node3" href="$classResourcesManager.html#ab376a89547592db4cca25309eac2931c" title="ResourcesManager::loadTexture" alt="" coords="261,53,489,79"/>
+<area shape="rect" id="node4" href="$classResourcesManager.html#a54721d26f52c4887b735d2cdaf60b078" title="ResourcesManager::create\lSurfaceFromFile" alt="" coords="537,111,731,152"/>
+<area shape="rect" id="node7" href="$classResourcesManager.html#ad7712ca96233a151d8bc22cd2ba17d01" title="ResourcesManager::create\lTextureFromSurface" alt="" coords="537,45,731,87"/>
+<area shape="rect" id="node5" href="$namespacefs.html#a28e4c1324680c188092ecfe5fd8a91a3" title="fs::getBasePath" alt="" coords="827,89,950,115"/>
+<area shape="rect" id="node6" href="$namespacefs.html#a000d1f9ae14d782b6193298e6d27023f" title="fs::fileExists" alt="" coords="838,139,939,166"/>
+</map>

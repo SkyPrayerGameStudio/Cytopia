@@ -1,0 +1,18 @@
+<map id="src/engine/WindowManager.cxx" name="src/engine/WindowManager.cxx">
+<area shape="rect" id="node2" href="$WindowManager_8hxx.html" title="WindowManager.hxx" alt="" coords="593,379,750,405"/>
+<area shape="rect" id="node8" href="$LOG_8hxx.html" title="LOG.hxx" alt="" coords="835,379,913,405"/>
+<area shape="rect" id="node9" href="$Exception_8hxx.html" title="Exception.hxx" alt="" coords="1709,453,1823,480"/>
+<area shape="rect" id="node23" href="$Settings_8hxx.html" title="basics/Settings.hxx" alt="" coords="228,379,376,405"/>
+<area shape="rect" id="node25" href="$Filesystem_8hxx.html" title="Filesystem.hxx" alt="" coords="1321,80,1441,107"/>
+<area shape="rect" id="node7" href="$Singleton_8hxx.html" title="../util/Singleton.hxx" alt="" coords="100,453,248,480"/>
+<area shape="rect" id="node18" href="$Meta_8hxx.html" title="Meta.hxx" alt="" coords="355,453,438,480"/>
+<area shape="rect" id="node22" href="$LOG_8inl_8hxx.html" title="LOG.inl.hxx" alt="" coords="1055,453,1152,480"/>
+<area shape="rect" id="node27" href="$PixelBuffer_8hxx.html" title="../util/PixelBuffer.hxx" alt="" coords="1302,155,1459,181"/>
+<area shape="rect" id="node28" href="$Rectangle_8hxx.html" title="../util/Rectangle.hxx" alt="" coords="1305,229,1456,256"/>
+<area shape="rect" id="node31" href="$Range_8hxx.html" title="../util/Range.hxx" alt="" coords="778,229,906,256"/>
+<area shape="rect" id="node34" href="$Color_8hxx.html" title="../util/Color.hxx" alt="" coords="1161,229,1281,256"/>
+<area shape="rect" id="node36" href="$PixelBuffer_8inl_8hxx.html" title="PixelBuffer.inl.hxx" alt="" coords="1532,229,1672,256"/>
+<area shape="rect" id="node29" href="$iShape_8hxx.html" title="../util/iShape.hxx" alt="" coords="1489,304,1619,331"/>
+<area shape="rect" id="node30" href="$Rectangle_8inl_8hxx.html" title="Rectangle.inl.hxx" alt="" coords="1177,304,1312,331"/>
+<area shape="rect" id="node33" href="$Range_8inl_8hxx.html" title="Range.inl.hxx" alt="" coords="729,304,840,331"/>
+</map>

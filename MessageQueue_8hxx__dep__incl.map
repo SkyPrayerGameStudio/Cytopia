@@ -1,0 +1,10 @@
+<map id="src/engine/MessageQueue.hxx" name="src/engine/MessageQueue.hxx">
+<area shape="rect" id="node2" href="$UIMQDispatcher_8hxx.html" title="src/engine/UIMQDispatcher.hxx" alt="" coords="5,80,231,107"/>
+<area shape="rect" id="node3" href="$DataModel_8hxx.html" title="src/model/DataModel.hxx" alt="" coords="59,155,247,181"/>
+<area shape="rect" id="node6" href="$Game_8hxx.html" title="src/Game.hxx" alt="" coords="305,80,417,107"/>
+<area shape="rect" id="node9" href="$AudioMixer_8cxx.html" title="src/services/AudioMixer.cxx" alt="" coords="441,80,643,107"/>
+<area shape="rect" id="node4" href="$ButtonState_8hxx.html" title="src/model/ButtonState.hxx" alt="" coords="55,229,250,256"/>
+<area shape="rect" id="node5" href="$ButtonState_8cxx.html" title="src/model/ButtonState.cxx" alt="" coords="55,304,250,331"/>
+<area shape="rect" id="node7" href="$Game_8cxx.html" title="src/Game.cxx" alt="" coords="288,155,399,181"/>
+<area shape="rect" id="node8" href="$main_8cxx.html" title="src/main.cxx" alt="" coords="423,155,528,181"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="TileManager::calculateTileOrientation" name="TileManager::calculateTileOrientation">
+<area shape="rect" id="node2" href="$classMapNode.html#aabbb10c19ddd79e9c519eb4af5e995e0" title="Update texture. " alt="" coords="247,67,431,93"/>
+<area shape="rect" id="node3" href="$classMapNode.html#ae515fc96b543bf97237bfb1ca53fe571" title="MapNode::MapNode" alt="" coords="770,5,922,32"/>
+<area shape="rect" id="node4" href="$classMapNode.html#a92b521fa20e0a75d81523a52ba1d8250" title="MapNode::setBitmask" alt="" coords="489,41,654,68"/>
+<area shape="rect" id="node5" href="$classMapNode.html#a26e55c94192a56990f8a59e7af139a73" title="MapNode::setTileID" alt="" coords="497,92,646,119"/>
+<area shape="rect" id="node7" href="$classMapNode.html#a002b868485074599fbf087fc4c96b2c9" title="Demolish a node Removes all tiles on a node. This effects all layers where something to demolish is p..." alt="" coords="479,143,664,169"/>
+<area shape="rect" id="node6" href="$classMap.html#a404c38b33d61f8c63ce2c2efb864d6dd" title="Set the Tile ID Of Node object Also invokes all necessary texture updates (auto&#45;tiling, slopes, ...) " alt="" coords="712,70,980,141"/>
+</map>

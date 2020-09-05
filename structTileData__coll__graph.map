@@ -1,0 +1,4 @@
+<map id="TileData" name="TileData">
+<area shape="rect" id="node2" href="$structRequiredTilesData.html" title="How many tiles this building uses. " alt="" coords="5,167,147,259"/>
+<area shape="rect" id="node3" href="$structTileSetData.html" title="This building will only appear in a game with the Style European. " alt="" coords="317,145,448,281"/>
+</map>

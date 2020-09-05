@@ -1,0 +1,7 @@
+<map id="MapNode::isPlacementAllowed" name="MapNode::isPlacementAllowed">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="539,18,717,59"/>
+<area shape="rect" id="node3" href="$classTileManager.html#a8ee071ff8b24926288437d310f9bc714" title="TileManager::getTileData" alt="" coords="535,84,721,110"/>
+<area shape="rect" id="node4" href="$classTileManager.html#a105151a0c336807e918aff002ffd6101" title="TileManager::getTileLayer" alt="" coords="286,80,477,106"/>
+<area shape="rect" id="node5" href="$classMapNode.html#ae38d4ab8e73fc9c44e404f3c9a196953" title="MapNode::isLayerOccupied" alt="" coords="282,181,481,208"/>
+<area shape="rect" id="node6" href="$classMapNode.html#aefd2e99e5bdde9925a5611ac2175492c" title="tileID placeable on slope tile. check if tileID is placeable on slope. " alt="" coords="276,29,487,56"/>
+</map>

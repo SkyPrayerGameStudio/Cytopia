@@ -1,0 +1,12 @@
+<map id="MapNode::getCoordinates" name="MapNode::getCoordinates">
+<area shape="rect" id="node2" href="$JsonSerialization_8hxx.html#a3fdb954f0db3c6c8ed9c863b19669f42" title="to_json" alt="" coords="355,17,425,44"/>
+<area shape="rect" id="node3" href="$classMapNode.html#a06be1917d4b251010ae78d8a2b7bc88a" title="demolish specific layer of a Node. " alt="" coords="297,68,483,95"/>
+<area shape="rect" id="node8" href="$classMap.html#a0241b997090783e5d13667114731a592" title="Debug MapNodeData to Console Used as Tile&#45;Inspector until we implement a GUI variant. " alt="" coords="244,119,536,190"/>
+<area shape="rect" id="node9" href="$classMap.html#ade1eeabf4e539f9dbfe2a96c97fda4e3" title="Map\&lt; ObserverSPtr\&lt;\l Notification \&gt;, Set\l\&lt; typename Notification\l::TransitionType \&gt; \&gt;::changeHeight" alt="" coords="265,214,515,285"/>
+<area shape="rect" id="node10" href="$classMap.html#af1e496c421981fe707890b0ba60cc20f" title="Map\&lt; ObserverSPtr\&lt;\l Notification \&gt;, Set\l\&lt; typename Notification\l::TransitionType \&gt; \&gt;::updateNode\lNeighbors" alt="" coords="270,309,510,395"/>
+<area shape="rect" id="node11" href="$classMap.html#a769a53961d4a0dd34ee080d2da8c171e" title="Map\&lt; ObserverSPtr\&lt;\l Notification \&gt;, Set\l\&lt; typename Notification\l::TransitionType \&gt; \&gt;::getElevated\lNeighborBitmask" alt="" coords="271,419,509,504"/>
+<area shape="rect" id="node4" href="$classMapNode.html#a26e55c94192a56990f8a59e7af139a73" title="MapNode::setTileID" alt="" coords="602,43,751,69"/>
+<area shape="rect" id="node7" href="$classMapNode.html#a002b868485074599fbf087fc4c96b2c9" title="Demolish a node Removes all tiles on a node. This effects all layers where something to demolish is p..." alt="" coords="584,93,769,120"/>
+<area shape="rect" id="node5" href="$classMapNode.html#ae515fc96b543bf97237bfb1ca53fe571" title="MapNode::MapNode" alt="" coords="875,5,1027,32"/>
+<area shape="rect" id="node6" href="$classMap.html#a404c38b33d61f8c63ce2c2efb864d6dd" title="Set the Tile ID Of Node object Also invokes all necessary texture updates (auto&#45;tiling, slopes, ...) " alt="" coords="817,57,1085,127"/>
+</map>

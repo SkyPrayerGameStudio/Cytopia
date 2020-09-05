@@ -1,0 +1,17 @@
+<map id="src/engine/ui/widgets/Button.cxx" name="src/engine/ui/widgets/Button.cxx">
+<area shape="rect" id="node2" href="$Button_8hxx.html" title="Button.hxx" alt="" coords="949,95,1042,121"/>
+<area shape="rect" id="node26" href="$LOG_8hxx.html" title="LOG.hxx" alt="" coords="1558,319,1636,345"/>
+<area shape="rect" id="node3" href="$UIElement_8hxx.html" title="../basics/UIElement.hxx" alt="" coords="420,244,595,271"/>
+<area shape="rect" id="node25" href="$Text_8hxx.html" title="Text.hxx" alt="" coords="957,169,1034,196"/>
+<area shape="rect" id="node5" href="$mapEdit_8hxx.html" title="../../basics/mapEdit.hxx" alt="" coords="28,319,201,345"/>
+<area shape="rect" id="node6" href="$ResourcesManager_8hxx.html" title="../../ResourcesManager.hxx" alt="" coords="244,319,438,345"/>
+<area shape="rect" id="node19" href="$WindowManager_8hxx.html" title="../../WindowManager.hxx" alt="" coords="513,393,694,420"/>
+<area shape="rect" id="node20" href="$signal_8hxx.html" title="../../basics/signal.hxx" alt="" coords="848,319,1007,345"/>
+<area shape="rect" id="node10" href="$TileManager_8hxx.html" title="TileManager.hxx" alt="" coords="258,393,387,420"/>
+<area shape="rect" id="node11" href="$tileData_8hxx.html" title="tileData.hxx" alt="" coords="552,468,655,495"/>
+<area shape="rect" id="node17" href="$Singleton_8hxx.html" title="Singleton.hxx" alt="" coords="679,468,790,495"/>
+<area shape="rect" id="node13" href="$enums_8hxx.html" title="enums.hxx" alt="" coords="607,543,702,569"/>
+<area shape="rect" id="node27" href="$Exception_8hxx.html" title="Exception.hxx" alt="" coords="1721,393,1836,420"/>
+<area shape="rect" id="node35" href="$Meta_8hxx.html" title="Meta.hxx" alt="" coords="1950,393,2033,420"/>
+<area shape="rect" id="node39" href="$LOG_8inl_8hxx.html" title="LOG.inl.hxx" alt="" coords="1548,393,1646,420"/>
+</map>

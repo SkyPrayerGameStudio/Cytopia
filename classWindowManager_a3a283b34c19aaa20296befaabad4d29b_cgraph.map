@@ -1,0 +1,7 @@
+<map id="WindowManager::WindowManager" name="WindowManager::WindowManager">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="607,91,757,132"/>
+<area shape="rect" id="node3" href="$namespacefs.html#a28e4c1324680c188092ecfe5fd8a91a3" title="fs::getBasePath" alt="" coords="368,40,491,66"/>
+<area shape="rect" id="node4" href="$namespacefs.html#a000d1f9ae14d782b6193298e6d27023f" title="fs::fileExists" alt="" coords="379,90,480,117"/>
+<area shape="rect" id="node5" href="$classWindowManager.html#a5ad60806695b35cb347de8cab4ac93ab" title="WindowManager::initialize\lScreenResolutions" alt="" coords="332,142,527,183"/>
+<area shape="rect" id="node6" href="$classWindowManager.html#a92e1efc564e88b5d92ef674c2577997f" title="sets the game&#39;s window mode Changes the game&#39;s window mode to fullscreen, borderless, or windowed " alt="" coords="300,208,559,234"/>
+</map>

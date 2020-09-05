@@ -1,0 +1,9 @@
+<map id="MapNode::setBitmask" name="MapNode::setBitmask">
+<area shape="rect" id="node2" href="$classMapNode.html#aabbb10c19ddd79e9c519eb4af5e995e0" title="Update texture. " alt="" coords="219,111,403,138"/>
+<area shape="rect" id="node3" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="464,5,643,47"/>
+<area shape="rect" id="node4" href="$classTileManager.html#a519b2d5c91877025a2faa0dff3ba099c" title="TileManager::calculateSlope\lOrientation" alt="" coords="451,71,656,112"/>
+<area shape="rect" id="node5" href="$classTileManager.html#a05d41a7f0858cff242f027a08e06ea43" title="TileManager::calculateTile\lOrientation" alt="" coords="457,136,650,177"/>
+<area shape="rect" id="node6" href="$classMapNode.html#afb1cbc0f9e987b7befced46220dd9277" title="check if specific layer can be autotiled. " alt="" coords="457,202,649,229"/>
+<area shape="rect" id="node8" href="$classMapNode.html#ab34930f43b60310cd475f514e969a401" title="get TileID of specific layer inside NodeData. " alt="" coords="478,253,629,279"/>
+<area shape="rect" id="node7" href="$classMapNode.html#a64cb9a4523c9e78f256fde42f1dee43d" title="check if specific Tile Data is autotile category. " alt="" coords="704,202,891,229"/>
+</map>

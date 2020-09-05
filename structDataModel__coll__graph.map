@@ -1,0 +1,10 @@
+<map id="DataModel&lt; DataList &gt;" name="DataModel&lt; DataList &gt;">
+<area shape="rect" id="node2" href="$classiModel.html" title="{iModel\n||+ ~iModel()\l}" alt="" coords="141,1132,242,1209"/>
+<area shape="rect" id="node3" href="$classSubject.html" title="{Subject\&lt; VariantType\l\&lt; DataList \&gt;, UIMQDispatcher\l\&lt; VariantType\&lt; DataList \&gt; \&gt; \&gt;\n|&#45; m_Observers\l|+ addObserver()\l# Subject()\l# notifyObservers()\l# ~Subject()\l# mustNotify()\l}" alt="" coords="266,1088,493,1253"/>
+<area shape="rect" id="node4" href="$structUIMQDispatcher.html" title="{UIMQDispatcher\&lt; VariantType\l\&lt; DataList \&gt; \&gt;\n||+ dispatch()\l}" alt="" coords="119,882,338,974"/>
+<area shape="rect" id="node5" href="$classUILoopMQ.html" title="UI Actor&#39;s message queue. " alt="" coords="67,580,155,657"/>
+<area shape="rect" id="node8" href="$structUIMQDispatcher.html" title="An asynchronous dispatch to Observers based on a UIMessageQueue processed on another thread..." alt="" coords="159,720,376,797"/>
+<area shape="rect" id="node6" href="$classMessageQueue.html" title="{MessageQueue\&lt; VariantType\l\&lt; UIEvents \&gt; \&gt;\n|&#45; m_OnEvent\l&#45; m_Semaphore\l&#45; m_Queue\l|+ push()\l+ peek()\l+ getEnumerable()\l+ MessageQueue()\l+ MessageQueue()\l+ MessageQueue()\l+ operator=()\l+ operator=()\l&#45; wakeCondition()\l}" alt="" coords="5,292,217,531"/>
+<area shape="rect" id="node7" href="$classMessageQueue.html" title="{MessageQueue\&lt; Event \&gt;\n|&#45; m_OnEvent\l&#45; m_Semaphore\l&#45; m_Queue\l|+ push()\l+ peek()\l+ getEnumerable()\l+ MessageQueue()\l+ operator=()\l+ MessageQueue()\l+ MessageQueue()\l+ operator=()\l&#45; wakeCondition()\l}" alt="" coords="17,5,205,229"/>
+<area shape="rect" id="node9" href="$classSubject.html" title="Allows to notify Observers about events. " alt="" coords="362,860,597,996"/>
+</map>

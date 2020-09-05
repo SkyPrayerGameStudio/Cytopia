@@ -1,0 +1,3 @@
+<map id="Engine::decreaseHeight" name="Engine::decreaseHeight">
+<area shape="rect" id="node2" href="$classMap.html#afb8cc864df90d273a5074872d635dc40" title="Decrease Height Decreases the height of the node and checks the surrounding tiles. Either draw a slope sprite or lower the tile if necessary. " alt="" coords="229,5,388,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="src/model/DataModel.hxx" name="src/model/DataModel.hxx">
+<area shape="rect" id="node2" href="$iModel_8hxx.html" title="iModel.hxx" alt="" coords="5,155,99,181"/>
+<area shape="rect" id="node4" href="$Observer_8hxx.html" title="../util/Observer.hxx" alt="" coords="174,379,319,405"/>
+<area shape="rect" id="node11" href="$MessageQueue_8hxx.html" title="../engine/MessageQueue.hxx" alt="" coords="485,155,694,181"/>
+<area shape="rect" id="node22" href="$UIMQDispatcher_8hxx.html" title="../engine/UIMQDispatcher.hxx" alt="" coords="174,80,389,107"/>
+<area shape="rect" id="node6" href="$Meta_8hxx.html" title="Meta.hxx" alt="" coords="272,453,355,480"/>
+<area shape="rect" id="node17" href="$Events_8hxx.html" title="../Events.hxx" alt="" coords="381,229,488,256"/>
+<area shape="rect" id="node21" href="$MessageQueue_8inl_8hxx.html" title="MessageQueue.inl.hxx" alt="" coords="798,229,967,256"/>
+<area shape="rect" id="node20" href="$UIEvents_8hxx.html" title="events/UIEvents.hxx" alt="" coords="225,304,381,331"/>
+</map>

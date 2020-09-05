@@ -1,0 +1,6 @@
+<map id="PixelBuffer::expandCenter" name="PixelBuffer::expandCenter">
+<area shape="rect" id="node2" href="$classRectangle.html#a6d7591d194230afb71ac2efcb8fd782f" title="Rectangle::width" alt="" coords="257,5,388,32"/>
+<area shape="rect" id="node4" href="$classRectangle.html#a21cbebe8e941c0c92d7eba0f7badcb6a" title="Rectangle::height" alt="" coords="255,56,390,83"/>
+<area shape="rect" id="node5" href="$classPixelBuffer.html#a30a3637fc0a05d028c6cdb07b38737b1" title="PixelBuffer::isEmpty" alt="" coords="245,107,400,133"/>
+<area shape="rect" id="node3" href="$classRectangle.html#ace89ac3a7085543f3f60449fb5cdc8af" title="Rectangle::isEmpty" alt="" coords="448,56,595,83"/>
+</map>

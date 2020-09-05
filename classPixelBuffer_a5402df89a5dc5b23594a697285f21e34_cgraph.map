@@ -1,0 +1,8 @@
+<map id="PixelBuffer::scale" name="PixelBuffer::scale">
+<area shape="rect" id="node2" href="$classRectangle.html#a6d7591d194230afb71ac2efcb8fd782f" title="Rectangle::width" alt="" coords="191,5,322,32"/>
+<area shape="rect" id="node4" href="$classRectangle.html#a21cbebe8e941c0c92d7eba0f7badcb6a" title="Rectangle::height" alt="" coords="189,56,324,83"/>
+<area shape="rect" id="node5" href="$classRectangle.html#aeae19d58b6473a6c4285fe9afe51e688" title="Rectangle::EMPTY" alt="" coords="188,107,325,133"/>
+<area shape="rect" id="node6" href="$classRectangle.html#ab5d4a97869ade9b36bde39f91cc70275" title="Rectangle::x1" alt="" coords="201,157,312,184"/>
+<area shape="rect" id="node7" href="$classRectangle.html#a74a0197166d7dfa4518183939c336247" title="Rectangle::y1" alt="" coords="201,208,312,235"/>
+<area shape="rect" id="node3" href="$classRectangle.html#ace89ac3a7085543f3f60449fb5cdc8af" title="Rectangle::isEmpty" alt="" coords="373,31,520,57"/>
+</map>

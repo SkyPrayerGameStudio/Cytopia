@@ -1,0 +1,6 @@
+<map id="MapNodeData" name="MapNodeData">
+<area shape="rect" id="node2" href="$structTileData.html" title="Holds all releavted information to this specific tile. " alt="" coords="82,373,235,597"/>
+<area shape="rect" id="node3" href="$structRequiredTilesData.html" title="How many tiles this building uses. " alt="" coords="317,167,458,259"/>
+<area shape="rect" id="node4" href="$structTileSetData.html" title="This building will only appear in a game with the Style European. " alt="" coords="162,145,293,281"/>
+<area shape="rect" id="node6" href="$classPoint.html" title="{Point\n|+ x\l+ y\l+ z\l+ height\l|+ operator==()\l+ operator!=()\l}" alt="" coords="259,417,383,553"/>
+</map>

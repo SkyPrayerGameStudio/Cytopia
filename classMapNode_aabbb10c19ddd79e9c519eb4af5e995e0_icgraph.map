@@ -1,0 +1,7 @@
+<map id="MapNode::updateTexture" name="MapNode::updateTexture">
+<area shape="rect" id="node2" href="$classMapNode.html#ae515fc96b543bf97237bfb1ca53fe571" title="MapNode::MapNode" alt="" coords="529,5,681,32"/>
+<area shape="rect" id="node3" href="$classMapNode.html#a92b521fa20e0a75d81523a52ba1d8250" title="MapNode::setBitmask" alt="" coords="247,41,413,68"/>
+<area shape="rect" id="node4" href="$classMapNode.html#a26e55c94192a56990f8a59e7af139a73" title="MapNode::setTileID" alt="" coords="255,92,405,119"/>
+<area shape="rect" id="node6" href="$classMapNode.html#a002b868485074599fbf087fc4c96b2c9" title="Demolish a node Removes all tiles on a node. This effects all layers where something to demolish is p..." alt="" coords="237,143,423,169"/>
+<area shape="rect" id="node5" href="$classMap.html#a404c38b33d61f8c63ce2c2efb864d6dd" title="Set the Tile ID Of Node object Also invokes all necessary texture updates (auto&#45;tiling, slopes, ...) " alt="" coords="471,70,739,141"/>
+</map>

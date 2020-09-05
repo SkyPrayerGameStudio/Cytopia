@@ -1,0 +1,14 @@
+<map id="Rectangle::isEmpty" name="Rectangle::isEmpty">
+<area shape="rect" id="node2" href="$classPixelBuffer.html#abbad3bec56ca536a543c42024045c99d" title="Crop the pixel buffer around a region. " alt="" coords="441,5,570,32"/>
+<area shape="rect" id="node3" href="$classPixelBuffer.html#a30a3637fc0a05d028c6cdb07b38737b1" title="PixelBuffer::isEmpty" alt="" coords="203,208,358,235"/>
+<area shape="rect" id="node5" href="$classRectangle.html#a6d7591d194230afb71ac2efcb8fd782f" title="Rectangle::width" alt="" coords="215,107,346,133"/>
+<area shape="rect" id="node9" href="$classRectangle.html#a21cbebe8e941c0c92d7eba0f7badcb6a" title="Rectangle::height" alt="" coords="213,157,348,184"/>
+<area shape="rect" id="node10" href="$classRectangle.html#afc98d2ef4028a53478c6452b554e43c8" title="Increments all x coordinates. " alt="" coords="200,259,361,285"/>
+<area shape="rect" id="node11" href="$classRectangle.html#a4d26ceb97e44be434dcfced941229a6c" title="Increments all y coordinates. " alt="" coords="201,309,361,336"/>
+<area shape="rect" id="node12" href="$classRectangle.html#a4489166815bd21aabea7a321392f1c5a" title="Intersects with another rectangle. " alt="" coords="205,56,356,83"/>
+<area shape="rect" id="node13" href="$Rectangle_8cxx.html#a8dee3ba99c775578a548ff8333ab97d6" title="operator\&lt;\&lt;" alt="" coords="231,360,330,387"/>
+<area shape="rect" id="node4" href="$classPixelBuffer.html#af2200c8401646984b4119c3c7ec8e6b5" title="Expands the sprite with a center cross to reach a dimension. " alt="" coords="409,208,601,235"/>
+<area shape="rect" id="node6" href="$classPixelBuffer.html#a5402df89a5dc5b23594a697285f21e34" title="Scale the pixel buffer using nearest&#45;neighbor in both dimensions. " alt="" coords="438,56,573,83"/>
+<area shape="rect" id="node7" href="$classPixelBuffer.html#a0d7a4fd0591121980a922794307c19e9" title="Construct a PixelBuffer from bounds and a range. " alt="" coords="419,107,591,133"/>
+<area shape="rect" id="node8" href="$classRectangle.html#a8e643108a9d90f031b397c7f561e9b66" title="Rectangle::to_SDL" alt="" coords="436,157,575,184"/>
+</map>

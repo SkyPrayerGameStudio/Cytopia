@@ -1,0 +1,9 @@
+<map id="CytopiaError" name="CytopiaError">
+<area shape="rect" id="node3" href="$classAssetError.html" title="An asset related error occured. " alt="" coords="5,256,95,333"/>
+<area shape="rect" id="node4" href="$classAudioError.html" title="An audio&#45;related error occured. " alt="" coords="119,256,210,333"/>
+<area shape="rect" id="node5" href="$classCompressionError.html" title="A compression error occured. " alt="" coords="234,256,373,333"/>
+<area shape="rect" id="node6" href="$classConfigurationError.html" title="A configuration error. " alt="" coords="397,256,537,333"/>
+<area shape="rect" id="node7" href="$classDisplayError.html" title="A display error occured. " alt="" coords="561,256,664,333"/>
+<area shape="rect" id="node8" href="$classUIError.html" title="A UI&#45;related error occured. " alt="" coords="689,256,755,333"/>
+<area shape="rect" id="node9" href="$classUnimplementedError.html" title="{UnimplementedError\n||}" alt="" coords="780,256,939,333"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="src/services/AudioMixer.cxx" name="src/services/AudioMixer.cxx">
+<area shape="rect" id="node2" href="$AudioMixer_8hxx.html" title="AudioMixer.hxx" alt="" coords="637,80,760,107"/>
+<area shape="rect" id="node22" href="$MessageQueue_8hxx.html" title="../engine/MessageQueue.hxx" alt="" coords="1654,155,1863,181"/>
+<area shape="rect" id="node29" href="$Settings_8hxx.html" title="basics/Settings.hxx" alt="" coords="3486,155,3634,181"/>
+<area shape="rect" id="node32" href="$LOG_8hxx.html" title="LOG.hxx" alt="" coords="3009,155,3087,181"/>
+<area shape="rect" id="node33" href="$Exception_8hxx.html" title="Exception.hxx" alt="" coords="3799,229,3913,256"/>
+<area shape="rect" id="node43" href="$ResourceManager_8hxx.html" title="../services/ResourceManager.hxx" alt="" coords="2092,155,2327,181"/>
+<area shape="rect" id="node45" href="$GameClock_8hxx.html" title="../services/GameClock.hxx" alt="" coords="2533,155,2728,181"/>
+<area shape="rect" id="node48" href="$Randomizer_8hxx.html" title="../services/Randomizer.hxx" alt="" coords="2727,80,2924,107"/>
+<area shape="rect" id="node49" href="$JsonSerialization_8hxx.html" title="common/JsonSerialization.hxx" alt="" coords="3357,80,3576,107"/>
+<area shape="rect" id="node50" href="$Filesystem_8hxx.html" title="Filesystem.hxx" alt="" coords="1172,155,1292,181"/>
+<area shape="rect" id="node8" href="$AudioEvents_8hxx.html" title="../events/AudioEvents.hxx" alt="" coords="525,155,715,181"/>
+<area shape="rect" id="node9" href="$Soundtrack_8hxx.html" title="../engine/audio/Soundtrack.hxx" alt="" coords="509,304,731,331"/>
+<area shape="rect" id="node11" href="$Meta_8hxx.html" title="../../util/Meta.hxx" alt="" coords="2235,379,2365,405"/>
+<area shape="rect" id="node15" href="$AudioConfig_8hxx.html" title="../engine/audio/AudioConfig.hxx" alt="" coords="717,229,945,256"/>
+<area shape="rect" id="node17" href="$GameService_8hxx.html" title="../GameService.hxx" alt="" coords="2337,229,2487,256"/>
+<area shape="rect" id="node18" href="$Events_8hxx.html" title="Events.hxx" alt="" coords="2131,304,2226,331"/>
+<area shape="rect" id="node28" href="$MessageQueue_8inl_8hxx.html" title="MessageQueue.inl.hxx" alt="" coords="1534,229,1703,256"/>
+<area shape="rect" id="node30" href="$Singleton_8hxx.html" title="../../util/Singleton.hxx" alt="" coords="3564,229,3724,256"/>
+<area shape="rect" id="node42" href="$LOG_8inl_8hxx.html" title="LOG.inl.hxx" alt="" coords="3077,229,3174,256"/>
+<area shape="rect" id="node44" href="$ResourceManager_8inl_8hxx.html" title="ResourceManager.inl.hxx" alt="" coords="2079,229,2263,256"/>
+</map>

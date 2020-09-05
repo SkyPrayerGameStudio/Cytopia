@@ -1,0 +1,9 @@
+<map id="DataModel&lt; DataList &gt;" name="DataModel&lt; DataList &gt;">
+<area shape="rect" id="node8" href="$structDataModel.html" title="{DataModel\&lt; ButtonNotifications \&gt;\n||+ DataModel()\l}" alt="" coords="9,728,255,805"/>
+<area shape="rect" id="node2" href="$classiModel.html" title="{iModel\n||+ ~iModel()\l}" alt="" coords="27,417,128,495"/>
+<area shape="rect" id="node3" href="$classSubject.html" title="{Subject\&lt; VariantType\l\&lt; DataList \&gt;, UIMQDispatcher\l\&lt; VariantType\&lt; DataList \&gt; \&gt; \&gt;\n|&#45; m_Observers\l|+ addObserver()\l# Subject()\l# notifyObservers()\l# ~Subject()\l# mustNotify()\l}" alt="" coords="152,373,379,539"/>
+<area shape="rect" id="node4" href="$structUIMQDispatcher.html" title="{UIMQDispatcher\&lt; VariantType\l\&lt; DataList \&gt; \&gt;\n|+ loop\l|+ dispatch()\l}" alt="" coords="5,167,224,259"/>
+<area shape="rect" id="node5" href="$structUIMQDispatcher.html" title="An asynchronous dispatch to Observers based on a UIMessageQueue processed on another thread..." alt="" coords="6,5,223,83"/>
+<area shape="rect" id="node6" href="$classSubject.html" title="Allows to notify Observers about events. " alt="" coords="248,145,483,281"/>
+<area shape="rect" id="node9" href="$classButtonState.html" title="{ButtonState\n|&#45; m_Status\l|+ setStatus()\l+ ~ButtonState()\l}" alt="" coords="65,855,199,947"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MapNode::setMapNodeData" name="MapNode::setMapNodeData">
+<area shape="rect" id="node2" href="$classMapNode.html#abda77a5705086a50cbc5755d10883e8a" title="Sets a node to be Transparent This sets a node to be Transparent. &#160;transparencyFactor (0&#45;1..." alt="" coords="256,5,487,32"/>
+<area shape="rect" id="node3" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="296,57,447,98"/>
+<area shape="rect" id="node4" href="$classTileManager.html#a8ee071ff8b24926288437d310f9bc714" title="TileManager::getTileData" alt="" coords="278,123,465,149"/>
+</map>

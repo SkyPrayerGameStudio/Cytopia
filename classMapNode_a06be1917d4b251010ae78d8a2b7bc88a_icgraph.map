@@ -1,0 +1,6 @@
+<map id="MapNode::demolishLayer" name="MapNode::demolishLayer">
+<area shape="rect" id="node2" href="$classMapNode.html#a26e55c94192a56990f8a59e7af139a73" title="MapNode::setTileID" alt="" coords="258,43,407,69"/>
+<area shape="rect" id="node5" href="$classMapNode.html#a002b868485074599fbf087fc4c96b2c9" title="Demolish a node Removes all tiles on a node. This effects all layers where something to demolish is p..." alt="" coords="240,93,425,120"/>
+<area shape="rect" id="node3" href="$classMapNode.html#ae515fc96b543bf97237bfb1ca53fe571" title="MapNode::MapNode" alt="" coords="531,5,683,32"/>
+<area shape="rect" id="node4" href="$classMap.html#a404c38b33d61f8c63ce2c2efb864d6dd" title="Set the Tile ID Of Node object Also invokes all necessary texture updates (auto&#45;tiling, slopes, ...) " alt="" coords="473,57,741,127"/>
+</map>

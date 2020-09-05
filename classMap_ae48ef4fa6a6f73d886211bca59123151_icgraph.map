@@ -1,0 +1,4 @@
+<map id="Map::saveMapToFile" name="Map::saveMapToFile">
+<area shape="rect" id="node2" href="$classEngine.html#ab5a909990be40701ebb4b57c3e716ed4" title="Engine::saveGame" alt="" coords="204,5,348,32"/>
+<area shape="rect" id="node3" href="$classUIManager.html#aa78e356fc3b356d790c848319d1c387e" title="UIManager::setCallbackFunctions" alt="" coords="396,5,633,32"/>
+</map>

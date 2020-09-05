@@ -1,0 +1,8 @@
+<map id="src/engine/audio/Soundtrack.hxx" name="src/engine/audio/Soundtrack.hxx">
+<area shape="rect" id="node2" href="$AudioConfig_8hxx.html" title="src/engine/audio/AudioConfig.hxx" alt="" coords="180,80,419,107"/>
+<area shape="rect" id="node4" href="$AudioEvents_8hxx.html" title="src/events/AudioEvents.hxx" alt="" coords="319,155,522,181"/>
+<area shape="rect" id="node5" href="$AudioMixer_8hxx.html" title="src/services/AudioMixer.hxx" alt="" coords="319,229,522,256"/>
+<area shape="rect" id="node7" href="$Soundtrack_8cxx.html" title="src/engine/audio/Soundtrack.cxx" alt="" coords="597,80,831,107"/>
+<area shape="rect" id="node3" href="$AudioConfig_8cxx.html" title="src/engine/audio/AudioConfig.cxx" alt="" coords="5,155,244,181"/>
+<area shape="rect" id="node6" href="$AudioMixer_8cxx.html" title="src/services/AudioMixer.cxx" alt="" coords="319,304,522,331"/>
+</map>

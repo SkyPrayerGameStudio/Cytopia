@@ -1,0 +1,14 @@
+<map id="src/util/PixelBuffer.cxx" name="src/util/PixelBuffer.cxx">
+<area shape="rect" id="node2" href="$PixelBuffer_8hxx.html" title="PixelBuffer.hxx" alt="" coords="963,80,1083,107"/>
+<area shape="rect" id="node4" href="$Rectangle_8hxx.html" title="../util/Rectangle.hxx" alt="" coords="947,155,1098,181"/>
+<area shape="rect" id="node25" href="$Range_8hxx.html" title="../util/Range.hxx" alt="" coords="1284,155,1412,181"/>
+<area shape="rect" id="node28" href="$Color_8hxx.html" title="../util/Color.hxx" alt="" coords="497,155,617,181"/>
+<area shape="rect" id="node30" href="$PixelBuffer_8inl_8hxx.html" title="PixelBuffer.inl.hxx" alt="" coords="1437,155,1577,181"/>
+<area shape="rect" id="node7" href="$iShape_8hxx.html" title="../util/iShape.hxx" alt="" coords="1036,229,1167,256"/>
+<area shape="rect" id="node8" href="$Rectangle_8inl_8hxx.html" title="Rectangle.inl.hxx" alt="" coords="877,229,1011,256"/>
+<area shape="rect" id="node10" href="$LOG_8hxx.html" title="LOG.hxx" alt="" coords="748,304,825,331"/>
+<area shape="rect" id="node12" href="$Exception_8hxx.html" title="Exception.hxx" alt="" coords="619,379,733,405"/>
+<area shape="rect" id="node21" href="$Meta_8hxx.html" title="Meta.hxx" alt="" coords="1243,379,1325,405"/>
+<area shape="rect" id="node24" href="$LOG_8inl_8hxx.html" title="LOG.inl.hxx" alt="" coords="929,379,1026,405"/>
+<area shape="rect" id="node27" href="$Range_8inl_8hxx.html" title="Range.inl.hxx" alt="" coords="1481,229,1591,256"/>
+</map>

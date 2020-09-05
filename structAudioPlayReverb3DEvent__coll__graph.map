@@ -1,0 +1,6 @@
+<map id="AudioPlayReverb3DEvent" name="AudioPlayReverb3DEvent">
+<area shape="rect" id="node2" href="$structStrongType.html" title="{StrongType\&lt; string,\l struct SoundtrackIDTag \&gt;\n|&#45; m_Data\l|+ StrongType()\l+ StrongType()\l+ StrongType()\l+ StrongType()\l+ operator=()\l+ operator=()\l+ operator=()\l+ operator=()\l+ get()\l+ get()\l}" alt="" coords="5,314,196,538"/>
+<area shape="rect" id="node3" href="$structStrongType.html" title="{StrongType\&lt; WeakType,\l typename \&gt;\n|&#45; m_Data\l|+ StrongType()\l+ StrongType()\l+ StrongType()\l+ operator=()\l+ operator=()\l+ operator=()\l+ operator=()\l+ StrongType()\l+ get()\l+ get()\l}" alt="" coords="11,5,190,229"/>
+<area shape="rect" id="node4" href="$structStandardReverbProperties.html" title="a standard reverb effect " alt="" coords="220,307,411,545"/>
+<area shape="rect" id="node5" href="$structCoordinate3D.html" title="a 3&#45;dimensional coordinate " alt="" coords="435,373,545,479"/>
+</map>

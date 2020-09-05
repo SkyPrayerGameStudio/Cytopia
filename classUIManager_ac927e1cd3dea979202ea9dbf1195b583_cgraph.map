@@ -1,0 +1,16 @@
+<map id="UIManager::changeResolution" name="UIManager::changeResolution">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="779,123,985,164"/>
+<area shape="rect" id="node3" href="$classWindowManager.html#a02ff8708c66cbb980399eb967a37a937" title="WindowManager::setScreen\lResolution" alt="" coords="509,52,712,94"/>
+<area shape="rect" id="node4" href="$classComboBox.html#afddbdfd25efa15206eb724b641665cfc" title="Get ID of selected element returns the ID of the selected element in the comboBox. " alt="" coords="272,181,449,208"/>
+<area shape="rect" id="node6" href="$classLayout.html#afa734c5af10f59f3dadb066054fe81ab" title="Arrange the layout elements. " alt="" coords="268,130,453,157"/>
+<area shape="rect" id="node15" href="$classMap.html#ab69938ac0e56eb0da1d1701221f3d185" title="Refresh all the map tile textures. " alt="" coords="309,232,412,258"/>
+<area shape="rect" id="node5" href="$classComboBox.html#ad0dba514b01ed2bb3c41c738c80a7d6a" title="Set ID of selected element sets the ID of the selected element in the comboBox. " alt="" coords="523,361,699,388"/>
+<area shape="rect" id="node7" href="$classLayout.html#a79480df6d9dd2d32b23468c05c6ac944" title="Calculates height and width of layout groups. " alt="" coords="503,194,719,235"/>
+<area shape="rect" id="node8" href="$classUIManager.html#a0d32c5b63c4110ff8e43ab06c1c7d761" title="Get the Layoutgroup container Returns the container, that holds LayoutGroups. " alt="" coords="768,260,996,286"/>
+<area shape="rect" id="node9" href="$classLayout.html#a99004e4afcea6a945e3890b19cce6236" title="Arrange Elements that are aligned to a parent This is a seperate function, so it can recurse if a par..." alt="" coords="501,310,720,337"/>
+<area shape="rect" id="node10" href="$classUIManager.html#aa5b6dbe1a9d5c50b588c55e9c9673f58" title="Get the Ui Element By ID Finds and returns an UiElement by its elementID parameter. " alt="" coords="772,361,992,388"/>
+<area shape="rect" id="node11" href="$classUIElement.html#a6451228b4c9bc058d69e4d4f2b03c719" title="UIElement::getUiElementData" alt="" coords="773,412,991,438"/>
+<area shape="rect" id="node12" href="$classUIElement.html#ad1c0d7431b71bdd9a3704a6d5c8a4643" title="Get the position and the size of this ui element Gets the position and the size of this ui element..." alt="" coords="775,310,989,337"/>
+<area shape="rect" id="node13" href="$classUIElement.html#aa7f624963eaeb31043d74219ee24386c" title="Checks if the mouse cursor is over the current UI Element Check if the coordinates match the ones sto..." alt="" coords="1092,285,1275,312"/>
+<area shape="rect" id="node14" href="$classUIElement.html#a570841bf8b7970ca935b1a00e571036a" title="Handling for the hovering event Check, if the mouse cursor is hovering over the element. virtual function to provide custom handling if necessary (e.g. Combobox) Per default, it&#39;s the same implementation as isMouseOver. " alt="" coords="1044,336,1323,362"/>
+</map>

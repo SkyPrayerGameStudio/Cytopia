@@ -1,0 +1,17 @@
+<map id="src/util/macOS/Filesystem.cxx" name="src/util/macOS/Filesystem.cxx">
+<area shape="rect" id="node2" href="$Filesystem_8hxx.html" title="Filesystem.hxx" alt="" coords="391,80,511,107"/>
+<area shape="rect" id="node13" href="$LOG_8hxx.html" title="LOG.hxx" alt="" coords="727,379,804,405"/>
+<area shape="rect" id="node33" href="$Settings_8hxx.html" title="Settings.hxx" alt="" coords="1295,379,1398,405"/>
+<area shape="rect" id="node6" href="$PixelBuffer_8hxx.html" title="../util/PixelBuffer.hxx" alt="" coords="372,155,529,181"/>
+<area shape="rect" id="node7" href="$Rectangle_8hxx.html" title="../util/Rectangle.hxx" alt="" coords="290,229,441,256"/>
+<area shape="rect" id="node27" href="$Range_8hxx.html" title="../util/Range.hxx" alt="" coords="647,229,775,256"/>
+<area shape="rect" id="node30" href="$Color_8hxx.html" title="../util/Color.hxx" alt="" coords="145,229,265,256"/>
+<area shape="rect" id="node32" href="$PixelBuffer_8inl_8hxx.html" title="PixelBuffer.inl.hxx" alt="" coords="465,229,605,256"/>
+<area shape="rect" id="node10" href="$iShape_8hxx.html" title="../util/iShape.hxx" alt="" coords="197,304,328,331"/>
+<area shape="rect" id="node11" href="$Rectangle_8inl_8hxx.html" title="Rectangle.inl.hxx" alt="" coords="403,304,538,331"/>
+<area shape="rect" id="node14" href="$Exception_8hxx.html" title="Exception.hxx" alt="" coords="891,453,1005,480"/>
+<area shape="rect" id="node23" href="$Meta_8hxx.html" title="Meta.hxx" alt="" coords="1211,453,1293,480"/>
+<area shape="rect" id="node26" href="$LOG_8inl_8hxx.html" title="LOG.inl.hxx" alt="" coords="769,453,866,480"/>
+<area shape="rect" id="node29" href="$Range_8inl_8hxx.html" title="Range.inl.hxx" alt="" coords="618,304,729,331"/>
+<area shape="rect" id="node34" href="$Singleton_8hxx.html" title="../../util/Singleton.hxx" alt="" coords="1496,453,1656,480"/>
+</map>

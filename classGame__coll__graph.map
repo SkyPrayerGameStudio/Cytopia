@@ -1,0 +1,13 @@
+<map id="Game" name="Game">
+<area shape="rect" id="node2" href="$classUILoopMQ.html" title="UI Actor&#39;s message queue. " alt="" coords="101,771,189,849"/>
+<area shape="rect" id="node3" href="$classMessageQueue.html" title="{MessageQueue\&lt; VariantType\l\&lt; UIEvents \&gt; \&gt;\n|&#45; m_OnEvent\l&#45; m_Semaphore\l&#45; m_Queue\l|+ push()\l+ peek()\l+ getEnumerable()\l+ MessageQueue()\l+ MessageQueue()\l+ MessageQueue()\l+ operator=()\l+ operator=()\l&#45; wakeCondition()\l}" alt="" coords="5,432,217,671"/>
+<area shape="rect" id="node4" href="$classMessageQueue.html" title="{MessageQueue\&lt; Event \&gt;\n|&#45; m_OnEvent\l&#45; m_Semaphore\l&#45; m_Queue\l|+ push()\l+ peek()\l+ getEnumerable()\l+ MessageQueue()\l+ operator=()\l+ MessageQueue()\l+ MessageQueue()\l+ operator=()\l&#45; wakeCondition()\l}" alt="" coords="136,145,324,369"/>
+<area shape="rect" id="node11" href="$classMessageQueue.html" title="{MessageQueue\&lt; VariantType\l\&lt; GameEvents \&gt; \&gt;\n|&#45; m_OnEvent\l&#45; m_Semaphore\l&#45; m_Queue\l|+ push()\l+ peek()\l+ getEnumerable()\l+ MessageQueue()\l+ MessageQueue()\l+ MessageQueue()\l+ operator=()\l+ operator=()\l&#45; wakeCondition()\l}" alt="" coords="241,432,453,671"/>
+<area shape="rect" id="node5" href="$classRandomizer.html" title="{Randomizer\n|&#45; generator\l|+ Randomizer()\l+ choose()\l}" alt="" coords="398,764,523,856"/>
+<area shape="rect" id="node6" href="$classGameService.html" title="{GameService\n||+ GameService()\l# GetService()\l}" alt="" coords="561,505,696,597"/>
+<area shape="rect" id="node9" href="$classResourceManager.html" title="{ResourceManager\n|&#45; m_Age\l&#45; m_CacheSize\l|+ ResourceManager()\l+ get()\l+ prune()\l}" alt="" coords="547,749,710,871"/>
+<area shape="rect" id="node12" href="$classGameClock.html" title="{GameClock\n|&#45; m_Deffered\l&#45; m_Repeated\l&#45; m_lock\l&#45; m_thread\l|+ GameClock()\l+ ~GameClock()\l+ createDefferedTask()\l+ createRepeatedTask()\l&#45; clockLoop()\l}" alt="" coords="734,720,913,900"/>
+<area shape="rect" id="node7" href="$structTupleType.html" title="{TupleType\&lt; TypeList \&gt;\n||}" alt="" coords="544,219,713,296"/>
+<area shape="rect" id="node8" href="$structTupleType.html" title="TupleType::type returns std::tuple&lt;All fields inside the TypeList&gt; " alt="" coords="559,5,698,83"/>
+<area shape="rect" id="node10" href="$classGameLoopMQ.html" title="Game loop Actor&#39;s message queue. " alt="" coords="260,771,373,849"/>
+</map>

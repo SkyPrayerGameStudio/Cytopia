@@ -1,0 +1,9 @@
+<map id="Subject&lt; Data, DispatchPolicy &gt;" name="Subject&lt; Data, DispatchPolicy &gt;">
+<area shape="rect" id="node3" href="$classSubject.html" title="{Subject\&lt; Transition\l\&lt; Model \&gt; \&gt;\n|&#45; m_Observers\l|+ addObserver()\l# Subject()\l# notifyObservers()\l# ~Subject()\l# mustNotify()\l}" alt="" coords="27,367,177,518"/>
+<area shape="rect" id="node5" href="$classSubject.html" title="{Subject\&lt; VariantType\l\&lt; ButtonNotifications\l \&gt;, UIMQDispatcher\&lt; VariantType\l\&lt; ButtonNotifications \&gt; \&gt; \&gt;\n|&#45; m_Observers\l|+ addObserver()\l# Subject()\l# notifyObservers()\l# ~Subject()\l# mustNotify()\l}" alt="" coords="183,549,424,729"/>
+<area shape="rect" id="node8" href="$classSubject.html" title="{Subject\&lt; VariantType\l\&lt; DataList \&gt;, UIMQDispatcher\l\&lt; VariantType\&lt; DataList \&gt; \&gt; \&gt;\n|&#45; m_Observers\l|+ addObserver()\l# Subject()\l# notifyObservers()\l# ~Subject()\l# mustNotify()\l}" alt="" coords="394,360,621,525"/>
+<area shape="rect" id="node4" href="$classTransitiveModel.html" title="{TransitiveModel\&lt; Model \&gt;\n|&#45; m_Filters\l|+ subscribe()\l# TransitiveModel()\l&#45; mustNotify()\l}" alt="" coords="5,753,199,860"/>
+<area shape="rect" id="node6" href="$structDataModel.html" title="{DataModel\&lt; ButtonNotifications \&gt;\n||+ DataModel()\l}" alt="" coords="235,923,481,1000"/>
+<area shape="rect" id="node7" href="$classButtonState.html" title="{ButtonState\n|&#45; m_Status\l|+ setStatus()\l+ ~ButtonState()\l}" alt="" coords="291,1049,425,1141"/>
+<area shape="rect" id="node9" href="$structDataModel.html" title="{DataModel\&lt; DataList \&gt;\n||+ DataModel()\l}" alt="" coords="386,768,562,845"/>
+</map>

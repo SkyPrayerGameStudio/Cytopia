@@ -1,0 +1,4 @@
+<map id="Engine::quitGame" name="Engine::quitGame">
+<area shape="rect" id="node2" href="$classEngine.html#a83b7dbeee899b36a13d5b07c7ad87ebc" title="Loads a saved game Loads a saved Game. " alt="" coords="192,5,333,32"/>
+<area shape="rect" id="node3" href="$classMap.html#afefe996cc1f62b61ec60d0ae415953bf" title="Map::loadMapFromFile" alt="" coords="381,5,548,32"/>
+</map>

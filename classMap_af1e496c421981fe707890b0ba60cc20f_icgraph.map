@@ -1,0 +1,5 @@
+<map id="Map::updateNodeNeighbors" name="Map::updateNodeNeighbors">
+<area shape="rect" id="node2" href="$classMap.html#ade1eeabf4e539f9dbfe2a96c97fda4e3" title="Map\&lt; ObserverSPtr\&lt;\l Notification \&gt;, Set\l\&lt; typename Notification\l::TransitionType \&gt; \&gt;::changeHeight" alt="" coords="263,5,513,76"/>
+<area shape="rect" id="node3" href="$classMap.html#a481b37ba71ef0e51e836fc42805762dd" title="Update all mapNodes Updates all mapNode and its adjacent tiles regarding height information, draws slopes for adjacent tiles and sets tiling for mapNode sprite if applicable. " alt="" coords="256,100,520,171"/>
+<area shape="rect" id="node4" href="$classMap.html#aa8cc2ed983007621bce12dd9d1b8ec5b" title="Demolish a node This function gathers all tiles that should be demolished and invokes the nodes demol..." alt="" coords="261,195,515,265"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Rectangle::height" name="Rectangle::height">
+<area shape="rect" id="node2" href="$classPixelBuffer.html#a5402df89a5dc5b23594a697285f21e34" title="Scale the pixel buffer using nearest&#45;neighbor in both dimensions. " alt="" coords="217,5,351,32"/>
+<area shape="rect" id="node3" href="$classPixelBuffer.html#abbad3bec56ca536a543c42024045c99d" title="Crop the pixel buffer around a region. " alt="" coords="219,56,349,83"/>
+<area shape="rect" id="node4" href="$classPixelBuffer.html#af2200c8401646984b4119c3c7ec8e6b5" title="Expands the sprite with a center cross to reach a dimension. " alt="" coords="188,107,380,133"/>
+<area shape="rect" id="node5" href="$classPixelBuffer.html#a0d7a4fd0591121980a922794307c19e9" title="Construct a PixelBuffer from bounds and a range. " alt="" coords="198,157,370,184"/>
+<area shape="rect" id="node6" href="$classRectangle.html#a8e643108a9d90f031b397c7f561e9b66" title="Rectangle::to_SDL" alt="" coords="215,208,353,235"/>
+</map>

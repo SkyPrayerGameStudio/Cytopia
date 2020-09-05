@@ -1,0 +1,13 @@
+<map id="PixelBuffer::crop" name="PixelBuffer::crop">
+<area shape="rect" id="node2" href="$classRectangle.html#a6d7591d194230afb71ac2efcb8fd782f" title="Rectangle::width" alt="" coords="193,5,323,32"/>
+<area shape="rect" id="node3" href="$classRectangle.html#ace89ac3a7085543f3f60449fb5cdc8af" title="Rectangle::isEmpty" alt="" coords="381,81,528,108"/>
+<area shape="rect" id="node4" href="$classRectangle.html#a4489166815bd21aabea7a321392f1c5a" title="Intersects with another rectangle. " alt="" coords="183,411,333,437"/>
+<area shape="rect" id="node7" href="$classRectangle.html#ab5d4a97869ade9b36bde39f91cc70275" title="Rectangle::x1" alt="" coords="203,157,313,184"/>
+<area shape="rect" id="node8" href="$classRectangle.html#ac3d78756a3de32e544f49d7b9013a6e9" title="Rectangle::x2" alt="" coords="203,208,313,235"/>
+<area shape="rect" id="node9" href="$classRectangle.html#a74a0197166d7dfa4518183939c336247" title="Rectangle::y1" alt="" coords="203,259,313,285"/>
+<area shape="rect" id="node10" href="$classRectangle.html#a8661a64a6a4d5c223f16fef00376aad0" title="Rectangle::y2" alt="" coords="203,309,313,336"/>
+<area shape="rect" id="node11" href="$classPixelBuffer.html#a77c8da8275f99facfb058488e82700f0" title="Read&#45;only access to pixel data. " alt="" coords="188,360,328,387"/>
+<area shape="rect" id="node12" href="$classRectangle.html#a21cbebe8e941c0c92d7eba0f7badcb6a" title="Rectangle::height" alt="" coords="191,107,325,133"/>
+<area shape="rect" id="node5" href="$classRectangle.html#aeae19d58b6473a6c4285fe9afe51e688" title="Rectangle::EMPTY" alt="" coords="386,436,523,463"/>
+<area shape="rect" id="node6" href="$isoMath_8hxx.html#ac2ecf6122bf61be6914c02ea6b1dd8ad" title="Clamp value. " alt="" coords="423,385,486,412"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="MapNode::demolishNode" name="MapNode::demolishNode">
+<area shape="rect" id="node2" href="$classMapLayers.html#a1d810628821913c499b8348107b66891" title="Check if given Layer is being drawn. " alt="" coords="239,118,427,145"/>
+<area shape="rect" id="node9" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="493,245,672,287"/>
+<area shape="rect" id="node10" href="$classMapNode.html#a06be1917d4b251010ae78d8a2b7bc88a" title="demolish specific layer of a Node. " alt="" coords="239,198,426,225"/>
+<area shape="rect" id="node12" href="$classMapNode.html#aabbb10c19ddd79e9c519eb4af5e995e0" title="Update texture. " alt="" coords="241,318,425,345"/>
+<area shape="rect" id="node3" href="$classMapLayers.html#ab663dfc9e4c144f904ad85543b66ac8f" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="475,42,691,69"/>
+<area shape="rect" id="node7" href="$classMapLayers.html#a53d7fcd90e70eaf36239d7a75c0c5dda" title="MapLayers::MapLayers" alt="" coords="497,93,668,119"/>
+<area shape="rect" id="node8" href="$classMapLayers.html#aa7fa21110e27ec69f131692b0a510d66" title="MapLayers::~MapLayers" alt="" coords="492,143,673,170"/>
+<area shape="rect" id="node4" href="$classMapLayers.html#a0a64d01a42e8864b78e1bc54007cb7d9" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="739,5,925,47"/>
+<area shape="rect" id="node6" href="$classMapLayers.html#a5db6ba7e194ada6a4d0334d0428ff89b" title="Enable drawing layers. " alt="" coords="739,71,925,98"/>
+<area shape="rect" id="node5" href="$classMapLayers.html#a3b1b1f10dd431fa83e098a20e4c836b9" title="Disable Drawing Layer Disable Drawing Layer ( Turned off by using bitwise AND with inversed pattern) ..." alt="" coords="973,13,1156,39"/>
+<area shape="rect" id="node11" href="$classMapNode.html#a67296a58e167356efbabeaac3226b5d3" title="get iso coordinates of this node gets the iso coordinates of this node " alt="" coords="487,194,678,221"/>
+<area shape="rect" id="node13" href="$classTileManager.html#a519b2d5c91877025a2faa0dff3ba099c" title="TileManager::calculateSlope\lOrientation" alt="" coords="480,311,685,352"/>
+<area shape="rect" id="node14" href="$classTileManager.html#a05d41a7f0858cff242f027a08e06ea43" title="TileManager::calculateTile\lOrientation" alt="" coords="486,376,679,417"/>
+<area shape="rect" id="node15" href="$classMapNode.html#afb1cbc0f9e987b7befced46220dd9277" title="check if specific layer can be autotiled. " alt="" coords="487,442,679,469"/>
+<area shape="rect" id="node17" href="$classMapNode.html#ab34930f43b60310cd475f514e969a401" title="get TileID of specific layer inside NodeData. " alt="" coords="507,493,658,519"/>
+<area shape="rect" id="node16" href="$classMapNode.html#a64cb9a4523c9e78f256fde42f1dee43d" title="check if specific Tile Data is autotile category. " alt="" coords="739,442,925,469"/>
+</map>

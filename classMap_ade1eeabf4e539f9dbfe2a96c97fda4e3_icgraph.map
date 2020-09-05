@@ -1,0 +1,4 @@
+<map id="Map::changeHeight" name="Map::changeHeight">
+<area shape="rect" id="node2" href="$classMap.html#aba5154a4d917900679a3c0f7ec701561" title="Increase Height Increases the height of the node and checks the surrounding tiles. Either draw a slope sprite or elevate the tile if necessary. " alt="" coords="202,5,418,91"/>
+<area shape="rect" id="node3" href="$classMap.html#afb8cc864df90d273a5074872d635dc40" title="Decrease Height Decreases the height of the node and checks the surrounding tiles. Either draw a slope sprite or lower the tile if necessary. " alt="" coords="200,115,420,200"/>
+</map>

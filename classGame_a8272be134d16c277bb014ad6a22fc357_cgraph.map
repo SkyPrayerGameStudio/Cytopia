@@ -1,0 +1,6 @@
+<map id="Game::quit" name="Game::quit">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="148,5,299,47"/>
+<area shape="rect" id="node3" href="$classEngine.html#a0ba57971ffb5173ecc425461f65a4cd8" title="Quits the game Sets m_running to false and quitting the game. " alt="" coords="154,71,293,98"/>
+<area shape="rect" id="node4" href="$classEngine.html#a83b7dbeee899b36a13d5b07c7ad87ebc" title="Loads a saved game Loads a saved Game. " alt="" coords="347,71,488,98"/>
+<area shape="rect" id="node5" href="$classMap.html#afefe996cc1f62b61ec60d0ae415953bf" title="Map::loadMapFromFile" alt="" coords="536,71,703,98"/>
+</map>

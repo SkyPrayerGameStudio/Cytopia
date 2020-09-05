@@ -1,0 +1,4 @@
+<map id="clamp" name="clamp">
+<area shape="rect" id="node2" href="$classRectangle.html#a4489166815bd21aabea7a321392f1c5a" title="Intersects with another rectangle. " alt="" coords="116,5,267,32"/>
+<area shape="rect" id="node3" href="$classPixelBuffer.html#abbad3bec56ca536a543c42024045c99d" title="Crop the pixel buffer around a region. " alt="" coords="315,5,444,32"/>
+</map>
